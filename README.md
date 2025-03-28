@@ -24,7 +24,7 @@ A simple application that displays a hierarchical skill tree with the ability to
 Run the application:
 
 ```bash
-python skill_tree.py
+python3 skill_tree.py
 ```
 
 ### How to Use

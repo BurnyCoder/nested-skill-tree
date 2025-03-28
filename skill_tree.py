@@ -129,16 +129,16 @@ class SkillTreeApp:
     def populate_tree(self):
         """Populate the tree with the initial skill tree structure."""
         # Add main categories
-        math = self.tree.insert("", "end", text="Arithmetic & Pre-Algebra", values=(False, "❌"))
-        algebra = self.tree.insert("", "end", text="Algebra", values=(False, "❌"))
+        math = self.tree.insert("", "end", text="Arithmetic & Pre-Algebra", values=("False", "❌"))
+        algebra = self.tree.insert("", "end", text="Algebra", values=("False", "❌"))
         
         # Add subcategories
-        basic_arithmetic = self.tree.insert(math, "end", text="Basic Arithmetic", values=(False, "❌"))
-        elem_algebra = self.tree.insert(algebra, "end", text="Elementary Algebra", values=(False, "❌"))
+        basic_arithmetic = self.tree.insert(math, "end", text="Basic Arithmetic", values=("False", "❌"))
+        elem_algebra = self.tree.insert(algebra, "end", text="Elementary Algebra", values=("False", "❌"))
         
         # Add sub-subcategories
-        self.tree.insert(basic_arithmetic, "end", text="Counting", values=(False, "❌"))
-        self.tree.insert(elem_algebra, "end", text="Linear Equations", values=(False, "❌"))
+        self.tree.insert(basic_arithmetic, "end", text="Counting", values=("False", "❌"))
+        self.tree.insert(elem_algebra, "end", text="Linear Equations", values=("False", "❌"))
         
         # Expand all initially
         for item in [math, algebra, basic_arithmetic, elem_algebra]:
@@ -152,9 +152,13 @@ class SkillTreeApp:
             return
             
         # Get the current completion status
-        current_status = self.tree.item(item_id, "values")[0]
+        current_values = self.tree.item(item_id, "values")
+        if len(current_values) < 1:
+            return
+            
+        current_status = str(current_values[0])
         
-        # Toggle the status (convert from string representation to boolean and back)
+        # Toggle the status
         if current_status == "True":
             new_status = False
             display_value = "❌"
@@ -165,6 +169,9 @@ class SkillTreeApp:
         # Update the item
         self.tree.item(item_id, values=(new_status, display_value))
         
+        # Add debugging message
+        print(f"Toggled item: {self.tree.item(item_id, 'text')}, new status: {new_status}")
+        
         # Update all children if this is a parent node
         self.update_children(item_id, new_status)
         
@@ -174,8 +181,9 @@ class SkillTreeApp:
     def update_children(self, parent_id, status):
         """Update all children to match parent's completion status."""
         display_value = "✅" if status else "❌"
+        status_str = str(status)
         for child_id in self.tree.get_children(parent_id):
-            self.tree.item(child_id, values=(status, display_value))
+            self.tree.item(child_id, values=(status_str, display_value))
             # Recursively update all descendants
             self.update_children(child_id, status)
     
@@ -191,13 +199,14 @@ class SkillTreeApp:
             
         all_completed = True
         for child_id in children:
-            if self.tree.item(child_id, "values")[0] != "True":
+            child_status = str(self.tree.item(child_id, "values")[0])
+            if child_status != "True":
                 all_completed = False
                 break
                 
         # Update parent status
         display_value = "✅" if all_completed else "❌"
-        self.tree.item(parent_id, values=(all_completed, display_value))
+        self.tree.item(parent_id, values=(str(all_completed), display_value))
         
         # Recursively update ancestors
         self.update_parent(self.tree.parent(parent_id))
@@ -265,7 +274,7 @@ class SkillTreeApp:
         parent_id = self.item_dict.get(parent_name, "")
         
         # Insert the new skill
-        new_item = self.tree.insert(parent_id, "end", text=skill_name, values=(False, "❌"))
+        new_item = self.tree.insert(parent_id, "end", text=skill_name, values=("False", "❌"))
         
         # If it's a child, make sure the parent is expanded
         if parent_id:
@@ -398,7 +407,7 @@ class SkillTreeApp:
             parent_id, 
             "end", 
             text=node_data["text"], 
-            values=(completed, display_value)
+            values=(str(completed), display_value)
         )
         
         # Set open state
