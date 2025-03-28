@@ -48,7 +48,14 @@ To load this sample:
 
 ## Default Skill Tree
 
-The application comes with a default skill tree structure:
+The application now loads a comprehensive mathematics skill tree from `math.txt` by default, which includes:
+
+- Arithmetic & Pre-Algebra
+- Algebra (Elementary, Intermediate, Precalculus)
+- Geometry
+- And many sub-skills within each category
+
+If `math.txt` is not found, the application will fall back to a simple default skill tree structure:
 
 ```
 Arithmetic & Pre-Algebra
@@ -59,7 +66,21 @@ Algebra
   - Linear Equations
 ```
 
-You can customize this or create your own skill trees.
+## Customizing the Skill Tree
+
+You can create your own skill tree in two ways:
+
+1. **Edit the math.txt file** - The application reads this file by default. The file uses indentation to indicate hierarchy (2 spaces per level).
+
+2. **Use the Application UI** - You can add skills using the "Add Skill" button and organize them as needed.
+
+3. **Code Modification** - Edit the `_populate_default_tree` method in the `SkillTreeApp` class in `skill_tree.py`.
+
+## Saving and Loading
+
+You can save your skill tree progress using the "Save Tree" button. This creates a JSON file that includes your completion status.
+
+To load a previously saved skill tree, click the "Load Tree" button and select your JSON file.
 
 ## Customization
 

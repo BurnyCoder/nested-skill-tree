@@ -132,7 +132,18 @@ class SkillTreeApp:
         self.tree.bind("<Double-1>", self.toggle_completion)
     
     def populate_tree(self):
-        """Populate the tree with the initial skill tree structure."""
+        """Populate the tree with the skill tree structure from math.txt."""
+        # Check if math.txt exists
+        if os.path.exists("math.txt"):
+            print("Loading skill tree from math.txt...")
+            self.load_from_text_file("math.txt")
+        else:
+            print("math.txt not found. Using default skill tree.")
+            # Fallback to the simple default tree if math.txt doesn't exist
+            self._populate_default_tree()
+    
+    def _populate_default_tree(self):
+        """Populate the tree with a simple default skill tree structure."""
         # Add main categories
         math = self.tree.insert("", "end", text="Arithmetic & Pre-Algebra", values=("False", "❌"), tags=('not_completed',))
         algebra = self.tree.insert("", "end", text="Algebra", values=("False", "❌"), tags=('not_completed',))
@@ -145,9 +156,78 @@ class SkillTreeApp:
         self.tree.insert(basic_arithmetic, "end", text="Counting", values=("False", "❌"), tags=('not_completed',))
         self.tree.insert(elem_algebra, "end", text="Linear Equations", values=("False", "❌"), tags=('not_completed',))
         
-        # Expand all initially
-        for item in [math, algebra, basic_arithmetic, elem_algebra]:
+        # Expand top-level categories
+        for item in [math, algebra]:
             self.tree.item(item, open=True)
+    
+    def load_from_text_file(self, file_path):
+        """Load a skill tree from a text file with indentation."""
+        try:
+            with open(file_path, 'r') as f:
+                lines = f.readlines()
+            
+            # Parse the indented text file
+            self._parse_indented_tree(lines)
+            
+            # Expand top-level items
+            for item in self.tree.get_children():
+                self.tree.item(item, open=True)
+                
+                # Also expand second-level items
+                for child in self.tree.get_children(item):
+                    self.tree.item(child, open=True)
+            
+        except Exception as e:
+            messagebox.showerror("Error", f"Error loading from text file: {str(e)}")
+            # Fall back to the default tree
+            self._populate_default_tree()
+    
+    def _parse_indented_tree(self, lines):
+        """Parse an indented text file and build the tree."""
+        # Dictionary to track parent nodes at each indentation level
+        parent_map = {}
+        
+        for line in lines:
+            if not line.strip():  # Skip empty lines
+                continue
+                
+            # Calculate indentation level (count spaces at the beginning)
+            indent = 0
+            for char in line:
+                if char == ' ':
+                    indent += 1
+                elif char == '\t':
+                    indent += 4  # Treat tabs as 4 spaces
+                else:
+                    break
+            
+            # Normalize indentation to levels (0, 2, 4, etc.)
+            level = indent // 2
+            
+            # Clean up the text (remove leading dash if present)
+            text = line.strip()
+            if text.startswith('- '):
+                text = text[2:]
+            
+            # Determine parent node
+            if level == 0:
+                # Top level item
+                parent_id = ""
+            else:
+                # Get parent from the level above
+                parent_id = parent_map.get(level - 1, "")
+            
+            # Insert the node
+            node_id = self.tree.insert(
+                parent_id, 
+                "end", 
+                text=text, 
+                values=("False", "❌"), 
+                tags=('not_completed',)
+            )
+            
+            # Update the parent map for this level
+            parent_map[level] = node_id
     
     def toggle_completion(self, event):
         """Toggle the completion status of a skill."""

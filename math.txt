@@ -1,0 +1,2265 @@
+Arithmetic & Pre-Algebra
+- Basic Arithmetic
+  - Counting
+  - Number Recognition
+  - Basic Operations
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Division
+  - Place Value
+  - Number Forms
+    - Fractions
+    - Decimals
+    - Percentages
+  - Ratios
+  - Proportions
+- Pre-Algebra Concepts
+  - Number Systems Introduction
+    - Integers
+    - Rational Numbers
+    - Number Line Representation
+    - Absolute Value
+  - Order of Operations (PEMDAS/BODMAS)
+  - Algebraic Concepts Introduction
+    - Variables
+    - Expressions (Building and Evaluating)
+  - Equation Solving Introduction
+    - One-Step Linear Equations
+    - Two-Step Linear Equations
+  - Exponents and Roots Introduction
+    - Basic Exponents
+    - Square Roots
+  - Geometry Introduction
+    - Basic Geometric Shapes Recognition
+    - Measurement Introduction
+      - Perimeter (Basic Figures)
+      - Area (Basic Figures)
+      - Volume (Basic Figures)
+  - Coordinate System Introduction
+    - Coordinate Plane (Cartesian Plane)
+    - Plotting Points
+
+Algebra
+- Algebra I / Elementary Algebra
+  - Linear Equations
+    - Multi-Step Linear Equations
+    - Equations with Variables on Both Sides
+    - Equations involving Fractions/Decimals
+    - Literal Equations (Solving for a variable)
+  - Linear Inequalities
+    - Solving Linear Inequalities
+    - Graphing Linear Inequalities (Number Line)
+    - Compound Inequalities
+  - Systems of Linear Equations (Two Variables)
+    - Solving by Graphing
+    - Solving by Substitution
+    - Solving by Elimination
+  - Polynomials (Introduction)
+    - Polynomial Terminology (Degree, Terms, Coefficients)
+    - Addition of Polynomials
+    - Subtraction of Polynomials
+    - Multiplication of Polynomials (Monomial * Polynomial, Binomial * Binomial, etc.)
+    - Special Products (Square of Binomial, Sum/Difference of Cubes)
+    - Division of Polynomials (by Monomial)
+    - Factoring Introduction
+      - Greatest Common Factor (GCF)
+      - Factoring Trinomials (Simple)
+      - Factoring Difference of Squares
+  - Functions (Introduction)
+    - Function Concept (Input/Output, Relation vs Function)
+    - Function Notation (f(x))
+    - Domain Introduction
+    - Range Introduction
+    - Identifying Linear Functions
+    - Graphing Linear Functions (Slope-Intercept Form)
+  - Rational Expressions (Introduction)
+    - Simplifying Rational Expressions
+    - Multiplication of Rational Expressions
+    - Division of Rational Expressions
+  - Radical Expressions (Introduction)
+    - Simplifying Square Roots
+    - Operations with Square Roots (Addition, Subtraction - basic)
+- Algebra II / Intermediate Algebra
+  - Functions In-Depth
+    - Domain Analysis
+    - Range Analysis
+    - Function Transformations
+      - Vertical Shifts
+      - Horizontal Shifts
+      - Vertical Stretches/Compressions
+      - Horizontal Stretches/Compressions
+      - Reflections
+    - Inverse Functions
+      - Finding Inverses
+      - Verifying Inverses
+      - Graphing Inverses
+    - Function Composition
+    - Piecewise Functions
+      - Evaluating Piecewise Functions
+      - Graphing Piecewise Functions
+  - Quadratic Functions and Equations
+    - Solving Quadratic Equations
+      - By Factoring (Advanced Trinomials)
+      - By Square Root Property
+      - By Completing the Square
+      - By Quadratic Formula
+    - The Discriminant
+    - Graphing Parabolas (Vertex Form, Standard Form)
+    - Applications of Quadratic Functions (Max/Min Problems)
+    - Solving Quadratic Inequalities
+  - Polynomial Functions (Higher Degree)
+    - Graphing Higher Degree Polynomials (End Behavior, Zeros)
+    - Remainder Theorem
+    - Factor Theorem
+    - Rational Root Theorem
+    - Finding Zeros of Polynomials
+    - Polynomial Long Division
+    - Synthetic Division
+  - Exponential Functions
+    - Properties of Exponents (Review and Extension)
+    - Graphing Exponential Functions
+    - Natural Base 'e'
+    - Solving Exponential Equations (Common Base, Using Logs)
+  - Logarithmic Functions
+    - Definition of Logarithms
+    - Common Logarithm (log₁₀)
+    - Natural Logarithm (ln)
+    - Properties of Logarithms
+    - Graphing Logarithmic Functions
+    - Solving Logarithmic Equations
+    - Change of Base Formula
+  - Rational Functions
+    - Identifying Vertical Asymptotes
+    - Identifying Horizontal Asymptotes
+    - Identifying Slant (Oblique) Asymptotes
+    - Finding Holes (Removable Discontinuities)
+    - Graphing Rational Functions
+    - Solving Rational Equations
+    - Solving Rational Inequalities
+  - Complex Numbers
+    - Imaginary Unit 'i'
+    - Standard Form (a + bi)
+    - Addition of Complex Numbers
+    - Subtraction of Complex Numbers
+    - Multiplication of Complex Numbers
+    - Division of Complex Numbers (Using Conjugate)
+    - Complex Plane Representation (Argand Diagram - Introduction)
+  - Sequences and Series
+    - Sequence Notation
+    - Arithmetic Sequences
+    - Arithmetic Series (Sum Formula)
+    - Geometric Sequences
+    - Geometric Series (Finite Sum Formula)
+    - Infinite Geometric Series (Sum Formula, Convergence Condition)
+    - Sigma Notation (Summation Notation)
+  - Matrices (Introduction Extended - Optional)
+    - Matrix Addition/Subtraction
+    - Scalar Multiplication
+    - Matrix Multiplication
+    - Determinants (2x2, 3x3 - Cramer's Rule optional)
+  - Conic Sections (Optional)
+    - Parabola (Focus-Directrix Definition)
+    - Circle (Standard Equation)
+    - Ellipse (Foci Definition, Standard Equation)
+    - Hyperbola (Foci Definition, Standard Equation, Asymptotes)
+- Precalculus
+  - Advanced Function Analysis
+    - Average Rate of Change
+    - Even/Odd Functions
+  - Polar Coordinates
+    - Plotting Polar Coordinates
+    - Converting Between Polar and Rectangular Coordinates
+    - Graphing Basic Polar Equations (Circles, Lines, Cardioids, Roses)
+  - Vectors (2D and 3D)
+    - Vector Definition (Magnitude and Direction)
+    - Component Form
+    - Vector Addition (Geometrically, Algebraically)
+    - Scalar Multiplication (Geometrically, Algebraically)
+    - Unit Vectors
+    - Standard Unit Vectors (i, j, k)
+    - Dot Product
+      - Definition
+      - Angle Between Vectors
+      - Orthogonal Vectors
+      - Projections
+    - Cross Product (3D only)
+      - Definition
+      - Geometric Interpretation (Area, Normal Vector)
+      - Algebraic Properties
+  - Parametric Equations
+    - Graphing Parametric Equations
+    - Eliminating the Parameter
+    - Parametrization of Curves
+  - Binomial Theorem
+    - Pascal's Triangle
+    - Binomial Expansion Formula
+  - Limits (Intuitive / Graphical Introduction)
+    - Concept of a Limit
+    - One-Sided Limits
+    - Limits at Infinity
+    - Asymptotes via Limits
+
+Geometry
+- Euclidean Geometry
+  - Foundational Concepts
+    - Undefined Terms: Point, Line, Plane
+    - Defined Terms: Segment, Ray, Angle, Collinear, Coplanar
+    - Postulates and Axioms
+  - Logical Reasoning and Proofs
+    - Inductive Reasoning
+    - Deductive Reasoning
+    - Conditional Statements (If-Then)
+    - Converse, Inverse, Contrapositive
+    - Biconditional Statements
+    - Basic Proof Structure (Two-Column, Paragraph, Flowchart)
+    - Properties of Equality and Congruence
+  - Angles
+    - Angle Measurement (Degrees)
+    - Angle Classification (Acute, Obtuse, Right, Straight)
+    - Angle Relationships (Adjacent, Vertical, Complementary, Supplementary)
+    - Parallel Lines and Transversals
+      - Corresponding Angles
+      - Alternate Interior Angles
+      - Alternate Exterior Angles
+      - Consecutive Interior Angles
+  - Triangles
+    - Triangle Classification (By Sides: Scalene, Isosceles, Equilateral; By Angles: Acute, Obtuse, Right)
+    - Triangle Angle Sum Theorem
+    - Triangle Exterior Angle Theorem
+    - Triangle Inequality Theorem
+    - Congruence Criteria
+      - SSS (Side-Side-Side)
+      - SAS (Side-Angle-Side)
+      - ASA (Angle-Side-Angle)
+      - AAS (Angle-Angle-Side)
+      - HL (Hypotenuse-Leg - for Right Triangles)
+    - CPCTC (Corresponding Parts of Congruent Triangles are Congruent)
+    - Properties of Isosceles Triangles
+    - Triangle Midsegment Theorem
+    - Points of Concurrency (Centroid, Incenter, Circumcenter, Orthocenter - basic properties)
+    - Similarity Criteria
+      - AA (Angle-Angle)
+      - SAS~ (Side-Angle-Side Similarity)
+      - SSS~ (Side-Side-Side Similarity)
+    - Properties of Similar Triangles (Proportional Sides, Perimeters, Areas)
+    - Right Triangle Similarity
+    - Pythagorean Theorem
+    - Converse of the Pythagorean Theorem
+    - Special Right Triangles
+      - 45-45-90 Triangles
+      - 30-60-90 Triangles
+  - Polygons
+    - Polygon Classification (By Number of Sides)
+    - Convex vs. Concave Polygons
+    - Regular Polygons
+    - Interior Angle Sum Formula
+    - Exterior Angle Sum Theorem
+    - Properties of Quadrilaterals
+      - Parallelogram Properties
+      - Rectangle Properties
+      - Square Properties
+      - Rhombus Properties
+      - Trapezoid Properties (Isosceles Trapezoid)
+      - Kite Properties
+  - Circles
+    - Terminology (Center, Radius, Diameter, Chord, Tangent, Secant)
+    - Tangent Line Properties
+    - Central Angles
+    - Arcs (Minor, Major, Semicircle)
+    - Arc Measure
+    - Inscribed Angles
+    - Angles formed by Tangents/Secants/Chords
+    - Segment Lengths in Circles (Intersecting Chords/Secants/Tangents)
+    - Arc Length Formula (using Radians typically)
+    - Sector Area Formula (using Radians typically)
+  - Transformations
+    - Rigid Motions (Isometries)
+      - Translations (Vectors)
+      - Rotations (Center, Angle)
+      - Reflections (Line of Reflection)
+    - Properties Preserved by Rigid Motions
+    - Dilations (Center, Scale Factor)
+    - Properties Preserved/Changed by Dilations
+    - Symmetry (Line Symmetry, Rotational Symmetry)
+  - Area (2D Measurement)
+    - Area Postulates
+    - Area Formulas
+      - Rectangle
+      - Square
+      - Parallelogram
+      - Triangle
+      - Trapezoid
+      - Rhombus / Kite
+      - Regular Polygon (using Apothem)
+      - Circle
+    - Area of Composite Figures
+  - Volume and Surface Area (3D Measurement)
+    - Polyhedra (Prisms, Pyramids)
+    - Solids of Revolution (Cylinders, Cones, Spheres)
+    - Surface Area Formulas
+      - Prism
+      - Cylinder
+      - Pyramid
+      - Cone
+      - Sphere
+    - Volume Formulas
+      - Prism
+      - Cylinder
+      - Pyramid
+      - Cone
+      - Sphere
+    - Volume/Surface Area of Composite Solids
+    - Cavalieri's Principle (Concept)
+- Coordinate Geometry (Analytic Geometry)
+  - The Coordinate Plane Review
+  - Distance Formula (Derivation and Application)
+  - Midpoint Formula (Derivation and Application)
+  - Slope Formula
+  - Slopes of Parallel Lines
+  - Slopes of Perpendicular Lines
+  - Equations of Lines
+    - Slope-Intercept Form (y = mx + b)
+    - Point-Slope Form (y - y₁ = m(x - x₁))
+    - Standard Form (Ax + By = C)
+  - Graphing Lines
+  - Equations of Circles (Standard Form: (x-h)²+(y-k)²=r²)
+  - Geometric Proofs using Coordinates
+  - Partitioning a Line Segment
+
+Trigonometry
+- Right Triangle Trigonometry
+  - Trigonometric Ratios
+    - Sine (SOH)
+    - Cosine (CAH)
+    - Tangent (TOA)
+  - Reciprocal Ratios
+    - Cosecant (csc)
+    - Secant (sec)
+    - Cotangent (cot)
+  - Finding Trig Ratios Given a Triangle
+  - Finding Missing Sides Using Trig Ratios
+  - Finding Missing Angles Using Inverse Trig Functions (sin⁻¹, cos⁻¹, tan⁻¹)
+  - Solving Right Triangles (Finding all sides/angles)
+  - Applications (Angle of Elevation, Angle of Depression)
+- Unit Circle and Radian Measure
+  - Angle Measurement in Radians
+  - Converting Between Degrees and Radians
+  - Coterminal Angles
+  - Reference Angles
+  - Definition of Trig Functions on the Unit Circle (x=cosθ, y=sinθ)
+  - Evaluating Trig Functions for Special Angles (0, π/6, π/4, π/3, π/2 and multiples)
+- Trigonometric Functions (Graphs and Properties)
+  - Graph of Sine Function (y=sin x)
+    - Properties: Domain, Range, Period, Amplitude, Symmetry
+  - Graph of Cosine Function (y=cos x)
+    - Properties: Domain, Range, Period, Amplitude, Symmetry
+  - Graph of Tangent Function (y=tan x)
+    - Properties: Domain, Range, Period, Asymptotes, Symmetry
+  - Graphs of Reciprocal Functions (csc, sec, cot)
+    - Properties and relation to sin/cos/tan graphs
+  - Transformations of Trig Graphs
+    - Amplitude Change (y=A sin(Bx))
+    - Period Change (y=A sin(Bx))
+    - Phase Shift (Horizontal Shift) (y=A sin(B(x-C)))
+    - Vertical Shift (y=A sin(B(x-C)) + D)
+    - Modeling with Sinusoidal Functions
+- Trigonometric Identities
+  - Fundamental Identities
+    - Reciprocal Identities
+    - Quotient Identities (tan, cot)
+    - Pythagorean Identities (sin²+cos²=1, etc.)
+  - Verifying Trigonometric Identities
+  - Sum and Difference Formulas (for sin, cos, tan)
+  - Double-Angle Formulas (for sin, cos, tan)
+  - Half-Angle Formulas (for sin, cos, tan)
+  - Power-Reducing Formulas (Optional)
+  - Product-to-Sum Formulas (Optional)
+  - Sum-to-Product Formulas (Optional)
+- Inverse Trigonometric Functions
+  - Definition and Notation (arcsin, arccos, arctan)
+  - Domain and Range Restrictions
+  - Evaluating Inverse Trig Functions
+  - Compositions involving Trig and Inverse Trig Functions
+- Solving Trigonometric Equations
+  - Basic Equations (e.g., sin x = 1/2)
+  - Equations requiring Factoring
+  - Equations requiring use of Identities
+  - Equations involving Multiple Angles
+  - Using Inverse Functions to find Principal Solutions
+  - Finding General Solutions (adding multiples of the period)
+- Laws for Non-Right Triangles
+  - Law of Sines
+    - Derivation (Optional)
+    - Application (AAS, ASA, SSA - Ambiguous Case)
+  - Law of Cosines
+    - Derivation (Optional)
+    - Application (SAS, SSS)
+  - Area of a Triangle (using Sine: Area = ½ab sin C)
+  - Heron's Formula (Area from sides - Optional)
+
+Calculus
+- Calculus I (Single Variable Differential Calculus)
+  - Limits
+    - Intuitive Concept of a Limit
+    - Estimating Limits Numerically/Graphically
+    - One-Sided Limits
+    - Limit Laws / Properties
+    - The Squeeze Theorem
+    - Limits involving Infinity (Asymptotes revisited)
+    - Formal Definition of a Limit (ε-δ)
+  - Continuity
+    - Definition of Continuity at a Point
+    - Continuity on an Interval
+    - Types of Discontinuities (Removable, Jump, Infinite)
+    - Intermediate Value Theorem (IVT)
+  - Derivatives
+    - Average Rate of Change vs. Instantaneous Rate of Change
+    - Definition of the Derivative (Limit of Difference Quotient)
+    - Interpretations of the Derivative (Slope of Tangent, Velocity)
+    - Differentiability vs. Continuity
+    - Differentiation Rules
+      - Constant Rule
+      - Power Rule
+      - Sum/Difference Rule
+      - Constant Multiple Rule
+      - Product Rule
+      - Quotient Rule
+    - Derivatives of Trigonometric Functions (sin, cos, tan, csc, sec, cot)
+    - The Chain Rule
+    - Derivatives of Exponential Functions (eˣ, aˣ)
+    - Derivatives of Logarithmic Functions (ln x, logₐ x)
+    - Derivatives of Inverse Trigonometric Functions
+    - Implicit Differentiation
+    - Logarithmic Differentiation
+    - Derivatives of Hyperbolic Functions (Optional)
+  - Applications of Differentiation
+    - Tangent Lines and Normal Lines
+    - Position, Velocity, Acceleration
+    - Related Rates
+    - Finding Critical Points
+    - Finding Intervals of Increase/Decrease (First Derivative Test)
+    - Finding Local Maxima/Minima (First Derivative Test)
+    - Concavity
+    - Points of Inflection
+    - Second Derivative Test for Local Extrema
+    - Curve Sketching (Using derivatives, limits, intercepts)
+    - Absolute Maxima/Minima on an Interval (Extreme Value Theorem)
+    - Optimization Problems
+    - Newton's Method (Approximating Roots)
+    - L'Hôpital's Rule (Evaluating Indeterminate Forms)
+    - Differentials and Linear Approximation
+  - Introduction to Integration / Antiderivatives
+    - Antiderivatives Definition
+    - Basic Antidifferentiation Rules (Reverse Power Rule, etc.)
+    - Indefinite Integral Notation
+    - Initial Value Problems
+- Calculus II (Single Variable Integral Calculus)
+  - Definite Integrals
+    - Area Under a Curve Problem
+    - Riemann Sums (Left, Right, Midpoint)
+    - Definition of the Definite Integral (Limit of Riemann Sums)
+    - Properties of Definite Integrals
+    - The Fundamental Theorem of Calculus
+      - Part 1 (Derivative of an Integral)
+      - Part 2 (Evaluation Theorem)
+    - Average Value of a Function (Mean Value Theorem for Integrals)
+  - Techniques of Integration
+    - Integration by Substitution (u-substitution) - Definite and Indefinite
+    - Integration by Parts
+    - Trigonometric Integrals (Powers of sin/cos, tan/sec)
+    - Trigonometric Substitution (Using sin, tan, sec substitutions)
+    - Integration by Partial Fraction Decomposition
+      - Linear Factors
+      - Repeated Linear Factors
+      - Irreducible Quadratic Factors
+      - Repeated Irreducible Quadratic Factors
+    - Strategy for Integration (Choosing Techniques)
+    - Using Tables of Integrals (Optional)
+    - Numerical Integration (Approximation)
+      - Trapezoidal Rule
+      - Simpson's Rule
+      - Error Bounds (Optional)
+    - Improper Integrals
+      - Integrals with Infinite Limits of Integration
+      - Integrals with Infinite Discontinuities
+      - Comparison Test for Improper Integrals
+  - Applications of Integration
+    - Area Between Curves
+    - Volumes by Slicing
+      - Disk Method
+      - Washer Method
+    - Volumes by Cylindrical Shells
+    - Arc Length of a Curve
+    - Surface Area of Revolution
+    - Work (Physics Application)
+    - Fluid Pressure and Force (Physics Application)
+    - Center of Mass / Centroids
+  - Sequences and Series (More Rigorous Treatment)
+    - Sequences
+      - Definition, Limit of a Sequence
+      - Monotonic Sequences, Bounded Sequences
+    - Series
+      - Definition, Partial Sums, Convergence/Divergence
+      - Geometric Series (Revisited)
+      - Telescoping Series
+      - Test for Divergence (nth Term Test)
+    - Convergence Tests for Positive Series
+      - Integral Test (and p-series)
+      - Direct Comparison Test
+      - Limit Comparison Test
+      - Ratio Test
+      - Root Test
+    - Tests for Alternating Series
+      - Alternating Series Test
+      - Absolute Convergence vs. Conditional Convergence
+      - Alternating Series Estimation Theorem
+    - Power Series
+      - Definition, Radius of Convergence, Interval of Convergence
+      - Representing Functions as Power Series (Geometric Series based)
+      - Differentiation of Power Series
+      - Integration of Power Series
+    - Taylor and Maclaurin Series
+      - Definition, Taylor Polynomials
+      - Finding Taylor/Maclaurin Series for Common Functions (eˣ, sin x, cos x, 1/(1-x))
+      - Taylor's Inequality (Remainder Estimation)
+      - Applications (Approximation, Evaluating Limits)
+  - Calculus with Parametric Equations
+    - Slopes of Tangent Lines
+    - Arc Length
+    - Surface Area of Revolution
+  - Calculus with Polar Coordinates
+    - Slopes of Tangent Lines
+    - Area in Polar Coordinates
+    - Arc Length in Polar Coordinates
+- Calculus III (Multivariable/Vector Calculus)
+  - Vectors and the Geometry of Space
+    - 3D Coordinate System Review
+    - Vectors in 2D and 3D Review
+    - Dot Product Review (Angle, Projections)
+    - Cross Product Review (Normal Vector, Area)
+    - Equations of Lines in Space (Vector, Parametric, Symmetric)
+    - Equations of Planes in Space
+    - Distances (Point-Point, Point-Line, Point-Plane, Line-Line, Plane-Plane)
+    - Cylinders
+    - Quadric Surfaces (Ellipsoid, Paraboloid, Hyperboloid, Cone - identification and sketching)
+    - Cylindrical Coordinates
+    - Spherical Coordinates
+    - Conversions Between Coordinate Systems
+  - Vector Functions and Space Curves
+    - Definition of Vector Functions
+    - Limits and Continuity of Vector Functions
+    - Derivatives of Vector Functions (Tangent Vector)
+    - Differentiation Rules for Vector Functions
+    - Integrals of Vector Functions
+    - Arc Length of a Space Curve
+    - Curvature
+      - Definition (Rate of change of unit tangent)
+      - Formulas for Curvature
+    - Unit Tangent Vector (T)
+    - Principal Unit Normal Vector (N)
+    - Binormal Vector (B = T x N)
+    - Torsion (Optional)
+    - Motion in Space
+      - Velocity Vector
+      - Acceleration Vector
+      - Speed
+      - Tangential Component of Acceleration
+      - Normal Component of Acceleration
+  - Partial Derivatives
+    - Functions of Several Variables (Definition, Domain, Range, Graphing/Level Curves/Surfaces)
+    - Limits and Continuity in Higher Dimensions
+    - Partial Derivatives (Definition, Calculation)
+    - Higher-Order Partial Derivatives (Clairaut's Theorem)
+    - The Chain Rule for Several Variables
+      - Case 1 (z=f(x,y), x=g(t), y=h(t))
+      - Case 2 (z=f(x,y), x=g(s,t), y=h(s,t))
+      - Implicit Differentiation using Partial Derivatives
+    - Directional Derivatives
+    - The Gradient Vector
+      - Properties (Max rate of increase, Orthogonal to level curves/surfaces)
+    - Tangent Planes to Level Surfaces
+    - Normal Lines to Level Surfaces
+    - Linear Approximation / Total Differential
+    - Maxima and Minima for Functions of Two Variables
+      - Critical Points
+      - Second Derivatives Test
+    - Absolute Maxima/Minima on Closed Bounded Regions
+    - Lagrange Multipliers (Constrained Optimization)
+  - Multiple Integrals
+    - Double Integrals over Rectangles
+    - Iterated Integrals
+    - Double Integrals over General Regions (Type I, Type II)
+    - Properties of Double Integrals
+    - Double Integrals in Polar Coordinates
+    - Applications of Double Integrals
+      - Area of a Region
+      - Volume under a Surface
+      - Mass of a Lamina
+      - Center of Mass of a Lamina
+      - Moments of Inertia (Optional)
+    - Surface Area (using Double Integrals)
+    - Triple Integrals
+      - Over Rectangular Boxes
+      - Over General Regions
+    - Triple Integrals in Cylindrical Coordinates
+    - Triple Integrals in Spherical Coordinates
+    - Applications of Triple Integrals
+      - Volume of a Solid
+      - Mass of a Solid
+      - Center of Mass of a Solid
+      - Moments of Inertia (Optional)
+    - Change of Variables in Multiple Integrals
+      - Jacobian Determinant (2D and 3D)
+  - Vector Calculus
+    - Vector Fields (Definition, Plotting)
+    - Conservative Vector Fields / Potential Functions
+      - Test for Conservative Field in 2D/3D (Curl)
+      - Finding Potential Functions
+    - Line Integrals
+      - Line Integrals of Scalar Functions (w.r.t. Arc Length)
+      - Line Integrals of Vector Fields (Work)
+      - Fundamental Theorem for Line Integrals (for Conservative Fields)
+      - Independence of Path
+    - Green's Theorem (Relates line integral around curve to double integral over region)
+      - Circulation Form
+      - Flux Form
+      - Using Green's Theorem to Calculate Area
+    - Curl of a Vector Field
+    - Divergence of a Vector Field
+    - Parametric Surfaces
+    - Surface Integrals
+      - Surface Integrals of Scalar Functions
+      - Surface Integrals of Vector Fields (Flux)
+    - Stokes' Theorem (Relates surface integral of curl to line integral around boundary)
+    - Divergence Theorem (Gauss's Theorem) (Relates surface integral (flux) to triple integral of divergence)
+
+Linear Algebra
+- Systems of Linear Equations
+  - Representing Systems (Matrix Form, Augmented Matrix)
+  - Elementary Row Operations
+  - Gaussian Elimination
+  - Gauss-Jordan Elimination
+  - Row Echelon Form (REF)
+  - Reduced Row Echelon Form (RREF)
+  - Solving Homogeneous Systems
+  - Structure of Solutions (Particular + Homogeneous)
+- Matrices
+  - Matrix Notation and Terminology
+  - Matrix Addition
+  - Scalar Multiplication
+  - Matrix Multiplication (Properties, Non-commutativity)
+  - The Transpose of a Matrix (Properties)
+  - Special Matrices (Identity, Zero, Diagonal, Triangular)
+  - Matrix Inverse
+    - Definition and Properties
+    - Finding the Inverse (Using Gauss-Jordan)
+    - Inverse of a 2x2 Matrix Formula
+  - Determinants
+    - Definition (Cofactor Expansion)
+    - Properties of Determinants
+    - Determinants via Row Reduction
+    - Cramer's Rule (Solving Systems - Theoretical)
+    - Adjoint Matrix and Inverse Formula (Theoretical)
+- Vector Spaces
+  - Vectors in Rⁿ (Review)
+  - Definition of a Vector Space (Axioms)
+  - Examples of Vector Spaces (Rⁿ, Polynomials, Matrices, Functions)
+  - Subspaces
+    - Definition and Criteria
+  - Linear Combinations
+  - Spanning Sets
+  - Linear Independence
+    - Definition
+    - Testing for Linear Independence
+  - Basis for a Vector Space
+    - Definition
+    - Finding a Basis
+  - Dimension of a Vector Space
+  - Coordinates Relative to a Basis
+  - Change of Basis Matrix
+  - Fundamental Subspaces Associated with a Matrix
+    - Column Space (Image/Range)
+    - Row Space
+    - Null Space (Kernel)
+  - Rank of a Matrix
+  - Rank-Nullity Theorem
+- Linear Transformations
+  - Definition and Examples
+  - Properties of Linear Transformations
+  - The Kernel (Null Space) of a Linear Transformation
+  - The Range (Image) of a Linear Transformation
+  - Matrix Representation of a Linear Transformation
+  - Isomorphisms
+  - Composition of Linear Transformations
+  - Inverse Linear Transformations
+- Eigenvalues and Eigenvectors
+  - Definition of Eigenvalue and Eigenvector
+  - Finding Eigenvalues (Characteristic Equation/Polynomial)
+  - Finding Eigenvectors (Solving (A-λI)x=0)
+  - Eigenspaces
+  - Diagonalization
+    - Criteria for Diagonalizability
+    - Process of Diagonalization (Finding P and D such that A=PDP⁻¹)
+  - Applications (Powers of Matrices, Solving Systems of ODEs - link)
+- Inner Product Spaces
+  - Definition of Inner Product (Axioms)
+  - Examples (Euclidean Inner Product in Rⁿ, Function Spaces)
+  - Length (Norm) Induced by Inner Product
+  - Distance Between Vectors
+  - Orthogonality
+    - Orthogonal Vectors
+    - Orthogonal Sets/Bases
+    - Orthonormal Sets/Bases
+  - Projections onto Subspaces
+  - Gram-Schmidt Orthonormalization Process
+  - Orthogonal Matrices
+  - Least Squares Approximation Problem
+  - Orthogonal Diagonalization (for Symmetric Matrices)
+- Spectral Theorem for Symmetric Matrices
+- Singular Value Decomposition (SVD - Advanced)
+- Jordan Canonical Form (Advanced)
+
+Discrete Mathematics, Logic, & Foundations
+- Set Theory
+  - Naive Set Theory
+    - Set Notation (Roster, Set-Builder)
+    - Subsets, Proper Subsets
+    - Set Operations
+      - Union
+      - Intersection
+      - Complement
+      - Set Difference
+      - Cartesian Product
+    - Power Set
+    - Venn Diagrams
+    - Properties of Set Operations (Commutativity, Associativity, Distributivity, De Morgan's Laws)
+  - Cardinality
+    - Finite Sets
+    - Countably Infinite Sets (Bijection with N)
+    - Uncountable Sets (Cantor's Diagonal Argument for R)
+    - Schröder–Bernstein Theorem (Optional)
+  - Russell's Paradox
+  - Axiomatic Set Theory Introduction (ZFC - Optional)
+    - Axioms (Extensionality, Empty Set, Pairing, Union, Power Set, Infinity, Replacement, Regularity, Choice)
+    - Ordinals and Cardinals (Advanced)
+- Logic
+  - Propositional Logic
+    - Propositions
+    - Logical Connectives (Negation ¬, Conjunction ∧, Disjunction ∨, Implication →, Biconditional ↔)
+    - Truth Tables
+    - Logical Equivalence
+    - Tautologies, Contradictions, Contingencies
+    - Rules of Inference (Modus Ponens, Modus Tollens, Hypothetical Syllogism, etc.)
+    - Arguments and Validity
+  - Predicate Logic
+    - Predicates
+    - Quantifiers (Universal ∀, Existential ∃)
+    - Negating Quantified Statements
+    - Multiple Quantifiers
+    - Validity in Predicate Logic
+- Proof Techniques
+  - Importance of Proof
+  - Direct Proof
+  - Proof by Contrapositive
+  - Proof by Contradiction
+  - Proof by Cases
+  - Proofs involving Quantifiers (Universal Introduction/Elimination, Existential Introduction/Elimination)
+  - Counterexamples
+  - Mathematical Induction
+    - Principle of Mathematical Induction (Weak Induction)
+    - Strong Induction
+    - Well-Ordering Principle
+- Combinatorics (Counting Techniques)
+  - Fundamental Counting Principles
+    - Sum Rule
+    - Product Rule
+  - Permutations
+    - Permutations of n distinct objects
+    - Permutations with repetitions
+  - Combinations
+    - Combinations of n objects taken k at a time (Binomial Coefficient)
+    - Properties of Binomial Coefficients (Pascal's Identity)
+  - The Pigeonhole Principle
+    - Simple Form
+    - Generalized Form
+  - Binomial Theorem (Revisited with Combinatorial Proof)
+  - Principle of Inclusion-Exclusion
+  - Derangements (Optional)
+  - Recurrence Relations
+    - Modeling with Recurrence Relations (Fibonacci, Tower of Hanoi)
+    - Solving Linear Homogeneous Recurrence Relations with Constant Coefficients
+    - Solving Linear Non-homogeneous Recurrence Relations (Optional)
+  - Generating Functions (Advanced)
+    - Ordinary Generating Functions
+    - Exponential Generating Functions
+    - Applications to Counting Problems
+  - Polya Enumeration Theorem (Advanced)
+- Graph Theory
+  - Basic Terminology
+    - Graphs (Vertices, Edges)
+    - Directed Graphs (Digraphs)
+    - Undirected Graphs
+    - Weighted Graphs
+    - Degree of a Vertex (In-degree, Out-degree)
+    - Adjacency Matrix
+    - Incidence Matrix
+    - Subgraphs
+    - Isomorphism of Graphs
+  - Paths and Circuits
+    - Walks, Trails, Paths
+    - Connected Graphs
+    - Cycles (Circuits)
+    - Eulerian Paths and Circuits (Conditions)
+    - Hamiltonian Paths and Circuits (NP-Complete aspect)
+  - Trees
+    - Definition and Properties
+    - Rooted Trees
+    - Binary Trees
+    - Spanning Trees
+    - Minimum Spanning Trees (MST)
+      - Kruskal's Algorithm
+      - Prim's Algorithm
+  - Graph Traversals
+    - Breadth-First Search (BFS)
+    - Depth-First Search (DFS)
+  - Graph Coloring
+    - Vertex Coloring, Chromatic Number
+    - Edge Coloring (Optional)
+    - Applications (Scheduling)
+    - Four Color Theorem (Concept)
+  - Planar Graphs
+    - Definition
+    - Euler's Formula for Planar Graphs (V-E+F=2)
+    - Kuratowski's Theorem (Concept - K₅, K₃,₃)
+  - Matchings in Bipartite Graphs (Advanced)
+    - Hall's Marriage Theorem
+  - Network Flows (Advanced)
+    - Max-Flow Min-Cut Theorem
+  - Spectral Graph Theory (Advanced)
+- Relations
+  - Binary Relations
+  - Representing Relations (Sets of Pairs, Matrices, Digraphs)
+  - Properties of Relations
+    - Reflexive
+    - Symmetric
+    - Antisymmetric
+    - Transitive
+  - Combining Relations
+  - Equivalence Relations
+    - Definition (Reflexive, Symmetric, Transitive)
+    - Equivalence Classes
+    - Partitions
+  - Partial Orders
+    - Definition (Reflexive, Antisymmetric, Transitive)
+    - Posets (Partially Ordered Sets)
+    - Hasse Diagrams
+    - Maximal/Minimal Elements
+    - Greatest/Least Elements
+    - Upper/Lower Bounds
+    - Lattices (Optional)
+    - Topological Sorting (Optional)
+- Functions (Formal Treatment)
+  - Definition as a Relation
+  - Injective (One-to-One) Functions
+  - Surjective (Onto) Functions
+  - Bijective (One-to-One Correspondence) Functions
+  - Composition of Functions (Revisited)
+  - Inverse Functions (Conditions for existence)
+- Computability Theory (Advanced)
+  - Formal Languages
+    - Alphabets, Strings, Languages
+    - Regular Expressions
+  - Automata Theory
+    - Finite Automata (DFA, NFA)
+    - Regular Languages
+    - Pushdown Automata
+    - Context-Free Languages
+  - Turing Machines
+    - Definition and Operation
+    - Church-Turing Thesis
+  - Decidability
+    - Decidable Languages/Problems
+    - Undecidable Languages/Problems (Halting Problem)
+  - Complexity Theory (Introduction - P vs NP)
+- Model Theory (Advanced)
+- Proof Theory (Advanced)
+
+Analysis
+- Real Analysis
+  - Foundations of Real Numbers
+    - Axioms (Field, Order, Completeness)
+    - Supremum (Least Upper Bound)
+    - Infimum (Greatest Lower Bound)
+    - Archimedean Property
+    - Density of Rationals and Irrationals
+  - Topology of the Real Line / Metric Spaces
+    - Open Sets
+    - Closed Sets
+    - Limit Points (Accumulation Points)
+    - Interior, Closure, Boundary
+    - Compact Sets (Heine-Borel Theorem in Rⁿ)
+    - Connected Sets
+    - Definition of a Metric Space
+    - Open/Closed Balls
+    - Convergence in Metric Spaces
+    - Cauchy Sequences
+    - Completeness (Complete Metric Spaces)
+    - Compactness in Metric Spaces (Sequential, Total Boundedness)
+    - Connectedness in Metric Spaces
+  - Sequences and Series of Real Numbers (Rigorous)
+    - Limit of a Sequence (ε-N Definition)
+    - Limit Theorems for Sequences
+    - Monotone Convergence Theorem
+    - Bolzano-Weierstrass Theorem
+    - Cauchy Criterion for Sequences
+    - Limit Superior (limsup)
+    - Limit Inferior (liminf)
+    - Series Convergence (Revisited Rigorously)
+    - Cauchy Criterion for Series
+    - Absolute and Conditional Convergence (Revisited)
+    - Rearrangements of Series
+  - Limits and Continuity of Functions (Rigorous)
+    - Limit of a Function (ε-δ Definition)
+    - Limit Theorems for Functions
+    - Continuity (ε-δ Definition, Sequential Definition, Topological Definition)
+    - Properties of Continuous Functions on Compact/Connected Sets (Extreme Value Thm, IVT generalized)
+    - Uniform Continuity
+  - Differentiation (Rigorous)
+    - Definition of Derivative (Revisited)
+    - Chain Rule (Proof)
+    - Mean Value Theorem (Rolle's Theorem, MVT, Cauchy MVT)
+    - L'Hôpital's Rule (Proof)
+    - Taylor's Theorem with Various Forms of Remainder
+  - Riemann Integration
+    - Partitions, Upper/Lower Sums, Refinements
+    - Riemann Integrability Criterion
+    - Properties of the Riemann Integral
+    - Fundamental Theorem of Calculus (Rigorous Proofs)
+    - Integration by Parts / Substitution (Rigorous Justification)
+  - Sequences and Series of Functions
+    - Pointwise Convergence
+    - Uniform Convergence
+    - Cauchy Criterion for Uniform Convergence
+    - Weierstrass M-Test for Uniform Convergence
+    - Uniform Convergence and Continuity
+    - Uniform Convergence and Integration
+    - Uniform Convergence and Differentiation
+    - Power Series (Radius/Interval of Convergence Revisited Rigorously)
+    - Abel's Theorem
+    - Weierstrass Approximation Theorem (Optional)
+  - Introduction to Measure Theory
+    - Motivation (Problems with Riemann Integral)
+    - Outer Measure
+    - σ-algebras
+    - Measures (Properties, Countable Additivity)
+    - Lebesgue Measure on Rⁿ
+    - Measurable Sets
+    - Properties of Lebesgue Measure (Translation/Rotation Invariance)
+    - Existence of Non-Measurable Sets (Vitali Set - Optional)
+  - Measurable Functions
+    - Definition and Properties
+    - Simple Functions
+    - Approximation by Simple Functions
+    - Egorov's Theorem (Optional)
+    - Lusin's Theorem (Optional)
+  - Lebesgue Integration
+    - Integral of Non-negative Simple Functions
+    - Integral of Non-negative Measurable Functions
+    - Integral of General Measurable Functions
+    - Comparison with Riemann Integral
+    - Convergence Theorems
+      - Monotone Convergence Theorem (Beppo Levi)
+      - Fatou's Lemma
+      - Lebesgue Dominated Convergence Theorem
+  - L^p Spaces
+    - Definition (Functions with finite p-norm)
+    - Hölder's Inequality
+    - Minkowski's Inequality
+    - Completeness of L^p spaces (Riesz-Fischer Theorem)
+    - Relationship between L^p spaces
+- Complex Analysis
+  - The Complex Number System
+    - Algebraic Properties Review
+    - Geometric Representation (Complex Plane, Modulus, Argument)
+    - Polar Form, Euler's Formula (e^(iθ) = cosθ + i sinθ)
+    - Roots of Complex Numbers (De Moivre's Theorem)
+    - Topology of the Complex Plane (Open/Closed sets, Connectedness)
+    - Stereographic Projection (Riemann Sphere - Optional)
+  - Analytic (Holomorphic) Functions
+    - Functions of a Complex Variable (Limits, Continuity)
+    - Differentiability in C
+    - Cauchy-Riemann Equations (Cartesian and Polar Forms)
+    - Sufficient Conditions for Differentiability
+    - Analytic Functions, Entire Functions
+    - Harmonic Functions, Laplace's Equation, Harmonic Conjugates
+  - Elementary Functions
+    - Exponential Function (e^z)
+    - Logarithmic Function (Log z, Principal Value log z) - Multi-valued nature
+    - Complex Exponents (z^α)
+    - Trigonometric Functions (sin z, cos z, etc.)
+    - Hyperbolic Functions (sinh z, cosh z, etc.)
+  - Complex Integration
+    - Contours (Paths) in the Complex Plane
+    - Contour Integrals (Definition)
+    - Properties of Contour Integrals
+    - ML-Inequality (Estimation Lemma)
+    - Cauchy-Goursat Theorem (for simply connected domains)
+    - Deformation of Contours / Path Independence
+    - Cauchy's Integral Formula
+    - Cauchy's Integral Formula for Derivatives / Higher Order Derivatives
+    - Liouville's Theorem
+    - Fundamental Theorem of Algebra (Proof using Liouville)
+    - Morera's Theorem
+    - Maximum Modulus Principle
+  - Series Representation of Analytic Functions
+    - Convergence of Sequences and Series of Complex Numbers
+    - Taylor Series for Analytic Functions
+    - Laurent Series (for functions analytic in an annulus)
+  - Singularities and Residue Theory
+    - Classification of Singularities
+      - Removable Singularities
+      - Poles (Order of a Pole)
+      - Essential Singularities
+    - Residues
+    - Cauchy's Residue Theorem
+    - Calculation of Residues
+    - Applications of Residues to Evaluation of Real Integrals
+      - Integrals of Rational Functions over R
+      - Integrals involving Trigonometric Functions
+      - Integrals with Indentations / Principal Value Integrals
+      - Integrals involving Branch Cuts
+    - Argument Principle
+    - Rouché's Theorem
+  - Conformal Mappings
+    - Definition and Properties (Angle-Preserving)
+    - Elementary Mappings (Linear, zⁿ, 1/z, Exp, Log)
+    - Bilinear Transformations (Möbius Transformations)
+    - Riemann Mapping Theorem (Statement and Significance - Optional)
+  - Analytic Continuation (Optional)
+  - Gamma Function (Optional)
+  - Riemann Zeta Function (Introduction - Optional)
+- Functional Analysis
+  - Review of Metric Spaces and Topology
+  - Normed Vector Spaces
+    - Definition and Examples (Rⁿ, Cⁿ, sequence spaces l^p, function spaces C[a,b], L^p)
+    - Banach Spaces (Complete Normed Spaces)
+  - Inner Product Spaces
+    - Definition and Examples (Rⁿ, Cⁿ, l², L²)
+    - Hilbert Spaces (Complete Inner Product Spaces)
+    - Orthogonality Revisited (Orthogonal Complements, Projection Theorem)
+    - Orthonormal Bases in Hilbert Spaces (Parseval's Identity, Riesz-Fischer Theorem for Hilbert Spaces)
+  - Linear Operators on Normed Spaces
+    - Bounded Linear Operators
+    - Operator Norm
+    - Space of Bounded Linear Operators B(X,Y)
+    - Isomorphisms, Isometries
+  - Linear Functionals
+    - Dual Space X*
+    - Hahn-Banach Theorem (Geometric and Analytic Forms)
+  - Fundamental Theorems for Banach Spaces
+    - Uniform Boundedness Principle (Banach-Steinhaus Theorem)
+    - Open Mapping Theorem
+    - Closed Graph Theorem
+  - Weak Topologies (Weak and Weak* Convergence - Optional)
+  - Spectral Theory in Normed Spaces / Banach Algebras (Optional)
+  - Spectral Theory of Bounded Operators on Hilbert Spaces
+    - Adjoint Operator
+    - Self-Adjoint Operators
+    - Normal Operators
+    - Unitary Operators
+    - Projections
+    - Spectrum of an Operator
+    - Spectral Theorem (for Compact Self-Adjoint Operators, for Normal Operators - Optional)
+  - Unbounded Operators (Introduction - Optional, important for QM)
+  - Operator Algebras (Advanced)
+    - C*-algebras
+    - von Neumann algebras
+- Harmonic Analysis
+  - Fourier Series
+    - Definition, Coefficients
+    - Convergence (Pointwise, Uniform, L² - Fejér's Theorem, Dirichlet Kernel)
+    - Parseval's Identity for Fourier Series
+  - Fourier Transform
+    - Definition (on Rⁿ, Schwartz Space)
+    - Properties (Convolution, Plancherel Theorem)
+    - Fourier Inversion Formula
+    - Applications (Solving PDEs)
+  - Distributions (Generalized Functions)
+    - Test Functions
+    - Definition of Distributions
+    - Operations on Distributions (Differentiation)
+    - Fourier Transform of Tempered Distributions
+  - Abstract Harmonic Analysis (Groups - Optional)
+  - Wavelets (Advanced)
+- Calculus of Variations
+  - Euler-Lagrange Equation
+  - Applications (Shortest Path, Minimal Surface of Revolution, Brachistochrone Problem)
+  - Constraints, Isoperimetric Problems
+  - Second Variation (Optional)
+
+Probability & Statistics
+- Probability Theory
+  - Foundations
+    - Experiments, Sample Spaces, Events
+    - Set Theory applied to Events
+    - Axioms of Probability (Kolmogorov Axioms)
+    - Basic Probability Rules (Complement, Union)
+    - Finite Probability Spaces
+    - Combinatorial Probability (Requires Combinatorics)
+      - Sampling with/without replacement
+      - Ordered/unordered sampling
+  - Conditional Probability
+    - Definition
+    - Multiplication Rule
+    - Law of Total Probability
+    - Bayes' Theorem
+  - Independence
+    - Independence of Two Events
+    - Independence of Multiple Events
+    - Bernoulli Trials
+  - Discrete Random Variables
+    - Definition
+    - Probability Mass Function (PMF)
+    - Cumulative Distribution Function (CDF)
+    - Expectation (Expected Value)
+    - Variance, Standard Deviation
+    - Functions of a Discrete Random Variable (Expectation)
+    - Common Discrete Distributions
+      - Bernoulli
+      - Binomial
+      - Geometric
+      - Negative Binomial
+      - Hypergeometric
+      - Poisson
+  - Continuous Random Variables
+    - Definition
+    - Probability Density Function (PDF)
+    - Cumulative Distribution Function (CDF)
+    - Expectation, Variance
+    - Functions of a Continuous Random Variable (Expectation, PDF)
+    - Common Continuous Distributions
+      - Uniform
+      - Normal (Gaussian)
+      - Exponential
+      - Gamma
+      - Beta
+      - Chi-Squared (χ²)
+      - Student's t
+      - F distribution
+  - Moments and Moment Generating Functions (MGFs)
+    - Moments (Raw, Central)
+    - Moment Generating Functions (Definition, Properties, Uniqueness)
+    - Characteristic Functions (Optional)
+  - Multivariate Distributions (Multiple Random Variables)
+    - Joint Distributions (Discrete PMF, Continuous PDF)
+    - Marginal Distributions
+    - Conditional Distributions
+    - Independence of Random Variables
+    - Covariance
+    - Correlation Coefficient
+    - Expectation of Functions of Multiple Random Variables (Linearity)
+    - Bivariate Normal Distribution (Optional)
+  - Functions of Multiple Random Variables
+    - Transformation Methods (CDF Method, Jacobian Method)
+    - Sums of Independent Random Variables (Convolutions)
+    - Order Statistics (Optional)
+  - Limit Theorems
+    - Inequalities (Markov, Chebyshev)
+    - Law of Large Numbers (LLN)
+      - Weak Law of Large Numbers (WLLN)
+      - Strong Law of Large Numbers (SLLN - Statement)
+    - Central Limit Theorem (CLT)
+      - Statement and Applications
+      - Normal Approximation to Binomial/Poisson
+  - Measure-Theoretic Probability (Advanced)
+    - Probability Spaces as Measure Spaces (σ-algebras, Probability Measures)
+    - Random Variables as Measurable Functions
+    - Expectation as Lebesgue Integral
+    - Modes of Convergence (Almost Sure, in Probability, in Distribution, in L^p)
+    - Rigorous Treatment of Limit Theorems
+    - Conditional Expectation given a σ-algebra
+- Mathematical Statistics
+  - Descriptive Statistics
+    - Graphical Displays (Histogram, Box Plot, Scatter Plot)
+    - Measures of Central Tendency (Mean, Median, Mode)
+    - Measures of Dispersion (Variance, Standard Deviation, Range, IQR)
+    - Skewness, Kurtosis (Optional)
+  - Sampling Distributions
+    - Concept of Random Sampling
+    - Sample Mean, Sample Variance
+    - Distribution of Sample Mean (from Normal Pop, using CLT)
+    - Chi-Squared Distribution (related to Sample Variance)
+    - Student's t Distribution (related to Sample Mean with unknown σ)
+    - F Distribution (related to ratio of Sample Variances)
+  - Estimation Theory
+    - Point Estimation
+      - Estimators vs. Estimates
+      - Method of Moments (MoM)
+      - Maximum Likelihood Estimation (MLE)
+      - Properties of Point Estimators
+        - Unbiasedness
+        - Efficiency (Minimum Variance Unbiased Estimator - MVUE, Cramer-Rao Lower Bound)
+        - Consistency
+        - Sufficiency (Optional)
+    - Interval Estimation (Confidence Intervals)
+      - Concept of Confidence Level
+      - Confidence Interval for Mean (σ known/unknown)
+      - Confidence Interval for Proportion
+      - Confidence Interval for Variance
+      - Confidence Interval for Difference between Means/Proportions
+      - Pivotal Quantity Method
+  - Hypothesis Testing
+    - Framework
+      - Null Hypothesis (H₀)
+      - Alternative Hypothesis (H₁)
+      - Test Statistic
+      - Rejection Region (Critical Region)
+      - Type I Error (α, Significance Level)
+      - Type II Error (β)
+      - Power of a Test (1-β)
+      - P-value
+    - Tests for Population Mean (σ known/unknown - Z-test, T-test)
+    - Tests for Population Proportion (Z-test)
+    - Tests for Population Variance (Chi-squared test)
+    - Tests for Comparing Two Means (Independent/Paired Samples - T-tests)
+    - Tests for Comparing Two Proportions (Z-test)
+    - Tests for Comparing Two Variances (F-test)
+    - Chi-Squared Tests
+      - Goodness-of-Fit Test
+      - Test for Independence (Contingency Tables)
+    - Analysis of Variance (ANOVA)
+      - One-Way ANOVA
+      - Two-Way ANOVA (Optional)
+    - Likelihood Ratio Tests (LRT)
+    - Neyman-Pearson Lemma (Most Powerful Tests - Optional)
+    - Uniformly Most Powerful (UMP) Tests (Optional)
+  - Regression Analysis
+    - Simple Linear Regression
+      - Model, Assumptions
+      - Least Squares Estimation of Parameters
+      - Inference on Slope and Intercept (t-tests, CIs)
+      - Coefficient of Determination (R²)
+      - Prediction Intervals
+      - Residual Analysis
+    - Multiple Linear Regression
+      - Model, Assumptions
+      - Matrix Formulation
+      - Estimation of Parameters
+      - Inference (t-tests for coefficients, F-test for overall significance)
+      - Model Selection Criteria (Adjusted R², AIC, BIC - Optional)
+      - Multicollinearity Issues (Optional)
+    - Non-linear Regression (Introduction)
+  - Bayesian Statistics
+    - Bayesian Framework (Prior, Likelihood, Posterior)
+    - Conjugate Priors
+    - Bayesian Point Estimation (Posterior Mean/Median/Mode)
+    - Credible Intervals (Bayesian Confidence Intervals)
+    - Bayesian Hypothesis Testing
+    - Markov Chain Monte Carlo (MCMC) Methods (Computational Aspect - Optional)
+  - Experimental Design (DOE)
+    - Principles (Randomization, Replication, Blocking)
+    - Completely Randomized Design
+    - Randomized Block Design
+    - Factorial Designs (Optional)
+  - Non-parametric Statistics (Optional)
+    - Sign Test
+    - Wilcoxon Rank-Sum Test (Mann-Whitney U)
+    - Wilcoxon Signed-Rank Test
+    - Kruskal-Wallis Test
+  - Time Series Analysis (Advanced)
+  - Multivariate Statistics (Advanced - PCA, Factor Analysis, etc.)
+- Stochastic Processes
+  - Definition and Classification
+  - Markov Chains (Discrete Time)
+    - Transition Probabilities
+    - Chapman-Kolmogorov Equations
+    - Classification of States (Recurrent, Transient)
+    - Stationary Distributions
+    - Limiting Behavior
+  - Poisson Processes
+    - Definition and Properties
+    - Interarrival Times
+    - Compound Poisson Processes
+  - Continuous-Time Markov Chains
+    - Birth-Death Processes
+    - Queueing Theory Models (M/M/1, etc.)
+  - Brownian Motion (Wiener Process)
+    - Definition and Properties
+    - Martingale Property
+  - Martingales (Discrete and Continuous Time)
+    - Definition
+    - Optional Stopping Theorem (Concept)
+  - Stochastic Calculus
+    - Itô Integral
+    - Itô's Lemma
+    - Stochastic Differential Equations (SDEs)
+    - Applications (e.g., Black-Scholes Model in Finance)
+  - Renewal Theory (Optional)
+- Information Theory
+  - Entropy (Shannon Entropy)
+  - Joint Entropy, Conditional Entropy
+  - Mutual Information
+  - Data Compression (Source Coding Theorem)
+  - Channel Capacity (Noisy Channel Coding Theorem)
+
+Number Theory
+- Elementary Number Theory
+  - Divisibility Properties
+  - Prime Numbers
+    - Sieve of Eratosthenes
+    - Infinitude of Primes (Euclid's Proof)
+    - Prime Number Theorem (Statement)
+  - Greatest Common Divisor (GCD)
+  - Euclidean Algorithm
+  - Bézout's Identity (Linear Combinations for GCD)
+  - Least Common Multiple (LCM)
+  - Linear Diophantine Equations (ax + by = c)
+  - Modular Arithmetic
+    - Congruence Relation
+    - Properties of Congruences
+    - Solving Linear Congruences
+    - Complete Residue Systems
+    - Reduced Residue Systems
+  - Important Theorems
+    - Chinese Remainder Theorem
+    - Fermat's Little Theorem
+    - Euler's Totient Theorem (Euler's Phi Function φ(n))
+    - Wilson's Theorem
+  - Applications (Cryptography Introduction - RSA)
+  - Primitive Roots Modulo n
+  - Order of an Integer Modulo n
+  - Quadratic Residues
+    - Legendre Symbol
+    - Euler's Criterion
+    - Law of Quadratic Reciprocity
+    - Jacobi Symbol (Optional)
+  - Continued Fractions
+    - Finite Continued Fractions (Rational Numbers)
+    - Infinite Continued Fractions (Quadratic Irrationals - Lagrange's Theorem)
+    - Applications (Approximation, Solving Pell's Equation)
+  - Diophantine Equations (Beyond Linear)
+    - Pythagorean Triples
+    - Pell's Equation (x² - Dy² = 1)
+    - Fermat's Last Theorem (Statement, History)
+  - Arithmetic Functions
+    - Multiplicative Functions
+    - Euler's Phi Function (Formula)
+    - Divisor Functions (τ(n), σ(n))
+    - Möbius Function, Möbius Inversion Formula
+    - Perfect Numbers
+- Analytic Number Theory
+  - Distribution of Prime Numbers
+    - Chebyshev's Bounds
+    - Prime Number Theorem (Proof Outline - Optional)
+  - Arithmetic Functions (Asymptotic Behavior)
+  - Dirichlet Series
+    - Abscissa of Convergence
+    - Euler Products
+  - Riemann Zeta Function (ζ(s))
+    - Definition, Analytic Continuation
+    - Functional Equation
+    - Zeros of the Zeta Function (Trivial, Non-trivial)
+    - Riemann Hypothesis (Statement)
+  - Dirichlet L-functions
+  - Primes in Arithmetic Progressions (Dirichlet's Theorem)
+  - Sieve Methods (Introduction - Optional)
+  - Additive Number Theory (Waring's Problem, Goldbach Conjecture - Optional)
+- Algebraic Number Theory
+  - Algebraic Numbers and Algebraic Integers
+  - Number Fields (Finite extensions of Q)
+    - Degree, Minimal Polynomial, Norm, Trace
+  - Rings of Integers in Number Fields (O_K)
+    - Integral Basis, Discriminant
+  - Ideals in Rings of Integers
+    - Unique Factorization of Ideals into Prime Ideals (Dedekind Domains)
+  - Norm of an Ideal
+  - Ideal Class Group (Measures failure of unique factorization of elements)
+  - Finiteness of the Class Group
+  - Units in Rings of Integers
+    - Dirichlet's Unit Theorem
+  - Galois Theory Applied to Number Fields
+    - Decomposition Group, Inertia Group
+    - Frobenius Element
+    - Cyclotomic Fields
+  - Local Fields
+    - p-adic Numbers (Q_p)
+    - Valuations
+    - Hensel's Lemma
+  - Class Field Theory (Overview - Advanced)
+- Elliptic Curves
+  - Definition (Weierstrass Equation)
+  - Geometric Group Law
+  - Elliptic Curves over Finite Fields
+  - Points of Finite Order (Torsion Subgroup)
+  - Mordell-Weil Theorem (Finitely Generated Abelian Group)
+  - Rank of an Elliptic Curve
+  - Elliptic Curve Cryptography (ECC)
+  - Connection to Modular Forms (Modularity Theorem - formerly Taniyama-Shimura Conjecture)
+- Modular Forms
+  - Definition (Transformation Property, Holomorphicity, Growth Condition)
+  - Congruence Subgroups (SL₂(Z))
+  - Examples (Eisenstein Series, Discriminant Function Δ)
+  - Hecke Operators (Optional)
+  - L-functions associated with Modular Forms (Optional)
+- Diophantine Approximation
+  - Dirichlet's Approximation Theorem
+  - Liouville Numbers (Transcendental Numbers)
+  - Thue-Siegel-Roth Theorem (Statement - Optional)
+- Transcendental Number Theory
+  - Proofs of Transcendence (e - Hermite, π - Lindemann)
+  - Gelfond-Schneider Theorem (Statement - Optional)
+- Computational Number Theory
+  - Primality Testing Algorithms (AKS, Miller-Rabin)
+  - Integer Factorization Algorithms (Pollard's rho, Quadratic Sieve)
+  - Algorithms for Discrete Logarithm Problem
+
+Topology
+- Point-Set Topology (General Topology)
+  - Topological Spaces
+    - Definition via Open Sets (Axioms)
+    - Examples (Discrete, Indiscrete, Standard on Rⁿ, Subspace)
+    - Bases for a Topology
+    - Subbases for a Topology
+  - Neighborhoods
+  - Interior, Closure, Boundary, Limit Points (Topological Definitions)
+  - Continuous Functions (Topological Definition)
+  - Homeomorphisms
+  - Topological Properties (Properties preserved by homeomorphisms)
+  - Construction of Topological Spaces
+    - Subspace Topology
+    - Product Topology (Finite and Infinite Products - Tychonoff Theorem)
+    - Quotient Topology (Identification Spaces)
+  - Connectedness
+    - Definition of Connected Space
+    - Properties of Connected Spaces
+    - Connected Subsets of R
+    - Components
+  - Path-Connectedness
+    - Definition
+    - Relation to Connectedness (Path-connected => Connected)
+  - Compactness
+    - Definition via Open Covers
+    - Properties of Compact Spaces
+    - Compact Subsets of Rⁿ (Heine-Borel Theorem revisited)
+    - Limit Point Compactness
+    - Sequential Compactness
+    - Relation between Compactness notions in Metric Spaces
+  - Countability Axioms
+    - First Countable Spaces
+    - Second Countable Spaces
+  - Separation Axioms
+    - T₀, T₁, T₂ (Hausdorff) Spaces
+    - T₃ (Regular), T₃.₅ (Tychonoff) Spaces
+    - T₄ (Normal) Spaces
+    - Urysohn's Lemma
+    - Tietze Extension Theorem
+  - Metric Spaces Revisited
+    - Metrizable Spaces
+    - Topology induced by a Metric
+    - Completeness of Metric Spaces
+    - Baire Category Theorem
+    - Completion of a Metric Space (Optional)
+  - Function Spaces (Topology of Pointwise/Uniform Convergence - Optional)
+- Algebraic Topology
+  - Homotopy Theory
+    - Homotopy of Maps
+    - Homotopy Equivalence (Spaces with same "shape")
+    - Contractible Spaces
+    - Deformation Retracts
+  - Fundamental Group (π₁(X, x₀))
+    - Definition (Homotopy classes of loops based at x₀)
+    - Group Structure
+    - Dependence on Basepoint (in Path-Connected Spaces)
+    - Functoriality (Induced Homomorphism f_*)
+    - Fundamental Group of S¹ (is isomorphic to Z)
+    - Applications (Brouwer Fixed Point Theorem in 2D)
+  - Van Kampen's Theorem (Calculating Fundamental Group of joined spaces)
+  - Covering Spaces
+    - Definition and Examples (R -> S¹, S¹ -> S¹)
+    - Lifting Properties (Path Lifting, Homotopy Lifting)
+    - Classification of Covering Spaces (via subgroups of π₁)
+    - Universal Covering Space
+  - Homology Theory (Introduction)
+    - Motivation (Detecting "holes" of different dimensions)
+    - Simplicial Complexes (Optional)
+    - Simplicial Homology (Optional - Definition, Boundary Maps, Chain Complexes)
+    - Singular Homology
+      - Singular Simplices
+      - Singular Chain Complex
+      - Homology Groups Hₙ(X)
+      - Properties (Homotopy Invariance)
+    - Relative Homology Hₙ(X, A)
+    - Exact Sequences (Long Exact Sequence of a Pair)
+    - Excision Theorem
+    - Mayer-Vietoris Sequence (Calculating Homology Groups)
+    - Cellular Homology (for CW Complexes - often easier calculation)
+    - Relation between H₁(X) and π₁(X) (H₁ is abelianization of π₁)
+    - Euler Characteristic (Relation to Homology - χ(X) = Σ(-1)ⁿ rank Hₙ(X))
+    - Applications (Lefschetz Fixed Point Theorem - Statement)
+  - Cohomology Theory (Introduction)
+    - Cochain Complexes, Coboundary Maps
+    - Cohomology Groups Hⁿ(X)
+    - Universal Coefficient Theorem for Cohomology
+    - Cup Product (Ring Structure on Cohomology)
+    - Künneth Formula for Cohomology
+    - Poincaré Duality (for Manifolds)
+  - Higher Homotopy Groups (πₙ(X, x₀)) (Advanced)
+    - Definition
+    - Properties (Abelian for n>1)
+    - Relation to Homology (Hurewicz Theorem)
+    - Fiber Bundles, Fibrations, Long Exact Sequence of Homotopy Groups (Advanced)
+- Differential Topology
+  - Smooth Manifolds
+    - Definition (Topological Manifold + Smooth Structure/Atlas)
+    - Examples (Rⁿ, Spheres Sⁿ, Tori Tⁿ, Projective Spaces RPⁿ, CPⁿ, Matrix Groups)
+    - Smooth Maps between Manifolds
+    - Diffeomorphisms
+  - Tangent Spaces
+    - Definition (via derivations, curves, or coordinate charts)
+    - Tangent Bundle TM
+    - Derivative (Differential) of a Smooth Map (Pushforward)
+  - Vector Fields
+    - Definition (Smooth sections of TM)
+    - Integral Curves, Flow
+    - Lie Bracket of Vector Fields
+  - Submersions, Immersions, Embeddings
+    - Rank of a Smooth Map
+    - Inverse Function Theorem / Implicit Function Theorem on Manifolds
+    - Submanifolds (Regular Value Theorem / Preimage Theorem)
+    - Whitney Embedding Theorems (Statement)
+  - Differential Forms
+    - Cotangent Bundle T*M
+    - k-forms (Alternating Tensors), Wedge Product (Exterior Algebra Ω*(M))
+    - Exterior Derivative (d: Ωᵏ -> Ωᵏ⁺¹, d²=0)
+    - Pullback of Forms (f*)
+  - Integration on Manifolds
+    - Orientation
+    - Integration of n-forms on oriented n-manifolds
+    - Stokes' Theorem (General Form: ∫_M dω = ∫_∂M ω)
+      - Relation to Green's, Stokes', Divergence Theorems from Calculus III
+  - de Rham Cohomology (H*_dR(M))
+    - Definition (Closed forms / Exact forms)
+    - Relation to Singular Cohomology (de Rham's Theorem)
+  - Vector Bundles (Generalization of Tangent Bundle)
+  - Transversality (Sard's Theorem)
+  - Intersection Theory (Introduction - Mod 2 Intersection Number)
+  - Morse Theory (Introduction - Optional)
+- Geometric Topology (Advanced)
+  - Knot Theory
+    - Knot Invariants (Crossing Number, Linking Number, Knot Polynomials - Alexander, Jones)
+  - Low-Dimensional Topology
+    - Classification of Surfaces (Genus)
+    - 3-Manifolds (Poincaré Conjecture / Geometrization Theorem)
+    - 4-Manifolds (Exotic R⁴)
+
+Differential Equations
+- Ordinary Differential Equations (ODEs)
+  - Basic Concepts
+    - Definition of ODE
+    - Order of an ODE
+    - Linear vs. Nonlinear ODEs
+    - Solutions (General, Particular, Singular)
+    - Initial Value Problems (IVPs)
+    - Existence and Uniqueness Theorems (Picard-Lindelöf for IVPs - statement/concept)
+  - First-Order ODEs
+    - Geometric Interpretation (Direction Fields, Isoclines)
+    - Separable Equations
+    - Linear Equations (Method of Integrating Factors)
+    - Exact Equations (Test for Exactness, Finding Potential Function)
+    - Substitution Methods
+      - Homogeneous Equations (y/x substitution)
+      - Bernoulli Equations
+    - Applications (Population Growth - Malthusian, Logistic; Mixing Problems; Cooling/Heating)
+  - Second-Order Linear ODEs
+    - Homogeneous Equations with Constant Coefficients
+      - Characteristic Equation (Real distinct roots, Real repeated roots, Complex roots)
+    - Principle of Superposition (for Homogeneous Equations)
+    - Linear Independence of Solutions, Wronskian
+    - Non-homogeneous Equations
+      - Method of Undetermined Coefficients
+      - Method of Variation of Parameters
+    - Applications (Mechanical Vibrations - Free/Forced, Damped/Undamped; RLC Circuits)
+  - Higher-Order Linear ODEs
+    - Homogeneous Equations with Constant Coefficients (Extension of 2nd order)
+    - Non-homogeneous Equations (Undetermined Coefficients, Variation of Parameters)
+  - Systems of First-Order Linear ODEs
+    - Matrix Form (x' = Ax + f(t))
+    - Homogeneous Systems with Constant Coefficients (x' = Ax)
+      - Eigenvalue Method (Real distinct, Repeated, Complex eigenvalues)
+    - Phase Plane Analysis for 2x2 Homogeneous Systems (Stability of Origin)
+    - Non-homogeneous Systems (Undetermined Coefficients, Variation of Parameters)
+  - Series Solutions of Linear ODEs
+    - Review of Power Series
+    - Solutions near an Ordinary Point
+    - Solutions near a Regular Singular Point (Method of Frobenius)
+    - Bessel's Equation, Legendre's Equation (Examples)
+  - Laplace Transforms
+    - Definition of Laplace Transform
+    - Transforms of Basic Functions
+    - Properties (Linearity, Shifting Theorems)
+    - Transforms of Derivatives and Integrals
+    - Inverse Laplace Transform (Using Tables, Partial Fractions)
+    - Solving IVPs using Laplace Transforms
+    - Step Functions (Heaviside Function), Dirac Delta Function
+    - Transforms involving Step Functions / Impulses
+    - Convolution Theorem
+  - Qualitative Analysis / Dynamical Systems
+    - Phase Portraits for Nonlinear Systems (2D)
+    - Equilibrium Points (Critical Points)
+    - Linearization near Equilibrium Points
+    - Stability Analysis (Stable Node, Unstable Node, Saddle Point, Center, Spiral)
+    - Limit Cycles (Poincaré-Bendixson Theorem - Statement)
+    - Bifurcation Theory (Introduction - Saddle-Node, Pitchfork, Hopf)
+  - Boundary Value Problems (BVPs)
+    - Definition
+    - Eigenvalue Problems for ODEs (Sturm-Liouville Theory - Introduction)
+    - Orthogonality of Eigenfunctions
+    - Fourier Series (Connection to Eigenfunction Expansions)
+- Partial Differential Equations (PDEs)
+  - Basic Concepts
+    - Definition of PDE
+    - Order, Linearity
+    - Examples of Important PDEs (Heat, Wave, Laplace)
+    - Well-Posed Problems (Existence, Uniqueness, Stability of Solution)
+  - Classification of Second-Order Linear PDEs (Elliptic, Parabolic, Hyperbolic)
+  - First-Order PDEs
+    - Linear and Quasilinear Equations
+    - Method of Characteristics
+  - The Wave Equation (Hyperbolic)
+    - Derivation (Vibrating String)
+    - D'Alembert's Solution (Infinite Domain)
+    - Solution using Separation of Variables (Finite Domain - requires Fourier Series)
+    - Energy Methods (Uniqueness)
+  - The Heat Equation (Parabolic)
+    - Derivation (Heat Conduction)
+    - Solution using Separation of Variables (Finite Domain - requires Fourier Series)
+    - Solution for Infinite Domain (Fourier Transform / Fundamental Solution)
+    - Maximum Principle
+    - Energy Methods (Uniqueness)
+  - Laplace's Equation (Elliptic)
+    - Potential Theory
+    - Boundary Value Problems (Dirichlet, Neumann, Robin)
+    - Solution in Rectangular Coordinates (Separation of Variables)
+    - Solution in Polar/Cylindrical/Spherical Coordinates (Separation of Variables - leads to Bessel Func, Legendre Poly)
+    - Maximum/Minimum Principle
+    - Mean Value Property
+    - Green's Functions (Introduction)
+  - Fourier Analysis Methods for PDEs
+    - Fourier Series (Review and Application to BVP/IVPs on finite domains)
+    - Fourier Transform (Application to problems on infinite domains)
+  - Other Solution Techniques
+    - Method of Eigenfunction Expansions
+    - Duhamel's Principle (for non-homogeneous problems)
+  - Introduction to Numerical Methods for PDEs (See Numerical Methods)
+  - Introduction to Sobolev Spaces (Function spaces for weak solutions - Requires Functional Analysis)
+
+Abstract Algebra
+- Group Theory
+  - Basic Definitions
+    - Binary Operation
+    - Definition of a Group (Axioms: Closure, Associativity, Identity, Inverse)
+    - Abelian Group
+    - Order of a Group, Order of an Element
+  - Examples of Groups
+    - Number Groups (Z, Q, R, C under addition; Q*, R*, C* under multiplication)
+    - Integers Modulo n (Zₙ under addition, Zₙ* under multiplication)
+    - Symmetric Groups Sₙ (Permutations of n elements)
+      - Cycle Notation
+      - Transpositions, Even/Odd Permutations, Alternating Group Aₙ
+    - Dihedral Groups Dₙ (Symmetries of a regular n-gon)
+    - Matrix Groups (GL(n,R), SL(n,R), O(n), U(n), etc.)
+    - Groups of Functions
+  - Subgroups
+    - Definition, Subgroup Criteria
+    - Cyclic Subgroups (Generated by one element)
+    - Center of a Group Z(G)
+    - Centralizer / Normalizer of an element/subgroup
+  - Cyclic Groups
+    - Properties of Cyclic Groups
+    - Classification of Subgroups of Cyclic Groups
+    - Fundamental Theorem of Cyclic Groups (Isomorphic to Z or Zₙ)
+  - Cosets
+    - Left and Right Cosets
+    - Lagrange's Theorem (Order of subgroup divides order of group)
+    - Corollaries (Order of element divides order of group, groups of prime order are cyclic)
+  - Normal Subgroups
+    - Definition (gN = Ng)
+    - Test for Normality
+  - Quotient Groups (Factor Groups)
+    - Construction G/N where N is normal
+    - Well-defined operation
+  - Homomorphisms
+    - Definition and Examples
+    - Kernel of a Homomorphism (is a Normal Subgroup)
+    - Image of a Homomorphism (is a Subgroup)
+  - Isomorphisms
+    - Definition (Bijective Homomorphism)
+    - Cayley's Theorem (Every group is isomorphic to a subgroup of a symmetric group)
+  - Isomorphism Theorems
+    - First Isomorphism Theorem (G/ker φ ≈ Im φ)
+    - Second Isomorphism Theorem
+    - Third Isomorphism Theorem
+  - Group Actions
+    - Definition (Action of G on a set X)
+    - Orbits
+    - Stabilizers
+    - Orbit-Stabilizer Theorem
+    - Applications (Counting arguments - Burnside's Lemma, Class Equation)
+  - Sylow Theorems
+    - Existence of Sylow p-subgroups
+    - Properties and Relations between Sylow p-subgroups (Conjugacy)
+    - Number of Sylow p-subgroups (Divisibility and Congruence conditions)
+    - Applications (Analyzing structure of finite groups)
+  - Structure of Finite Groups
+    - Direct Products (Internal and External)
+    - Semi-direct Products (Optional)
+    - Fundamental Theorem of Finitely Generated Abelian Groups
+    - Solvable Groups
+    - Nilpotent Groups (Optional)
+  - Free Groups and Presentations (Advanced)
+  - Representation Theory of Groups (Advanced)
+    - Group representations, Characters
+  - Geometric Group Theory (Advanced)
+- Ring Theory
+  - Basic Definitions
+    - Definition of a Ring (Axioms for two operations: +, *)
+    - Commutative Ring
+    - Ring with Unity (Identity)
+  - Examples of Rings
+    - Number Rings (Z, Q, R, C)
+    - Integers Modulo n (Zₙ)
+    - Polynomial Rings R[x]
+    - Matrix Rings Mₙ(R)
+    - Rings of Functions
+    - Boolean Rings
+  - Subrings
+    - Definition, Subring Test
+  - Ideals
+    - Definition (Left, Right, Two-sided)
+    - Principal Ideals (Generated by one element)
+    - Operations on Ideals (Sum, Intersection, Product)
+  - Ring Homomorphisms
+    - Definition and Examples
+    - Kernel of a Homomorphism (is an Ideal)
+    - Image of a Homomorphism (is a Subring)
+  - Quotient Rings (Factor Rings)
+    - Construction R/I where I is an ideal
+  - Isomorphism Theorems for Rings (Analogous to Group versions)
+  - Integral Domains
+    - Definition (Commutative ring with unity, no zero divisors)
+    - Cancellation Property
+  - Fields
+    - Definition (Commutative ring with unity where every non-zero element has a multiplicative inverse)
+    - Fields are Integral Domains
+    - Finite Integral Domains are Fields
+  - Field of Fractions (Construction from an Integral Domain)
+  - Polynomial Rings R[x]
+    - Degree of a Polynomial
+    - Division Algorithm for Polynomials (if coefficients are from a field)
+    - Remainder Theorem, Factor Theorem
+    - Roots of Polynomials
+    - Irreducible Polynomials
+    - Factorization in Polynomial Rings
+  - Factorization in Integral Domains
+    - Units, Associates
+    - Irreducible Elements vs. Prime Elements
+    - Unique Factorization Domains (UFDs)
+      - Definition
+      - Z is a UFD, F[x] is a UFD if F is a field
+      - Factorization into irreducibles is unique (up to order and associates)
+    - Principal Ideal Domains (PIDs)
+      - Definition (Every ideal is principal)
+      - PIDs are UFDs
+    - Euclidean Domains (EDs)
+      - Definition (Has a division algorithm / Euclidean function)
+      - EDs are PIDs (hence UFDs)
+      - Z is an ED, F[x] is an ED if F is a field
+    - Gauss's Lemma (Relating factorization in D[x] and F[x])
+    - Eisenstein's Criterion (Testing for irreducibility)
+  - Special Types of Ideals
+    - Prime Ideals
+    - Maximal Ideals
+    - Relation between Ideal Types and Quotient Rings (R/I is ID iff I is prime; R/I is field iff I is maximal)
+  - Noetherian Rings (Advanced)
+    - Ascending Chain Condition (ACC) on Ideals
+    - Hilbert's Basis Theorem
+  - Artinian Rings (Advanced)
+    - Descending Chain Condition (DCC) on Ideals
+- Field Theory & Galois Theory
+  - Basic Concepts of Fields (Review)
+  - Field Extensions
+    - Base Field, Extension Field
+    - Degree of an Extension [K:F]
+    - Tower Law: [L:F] = [L:K][K:F]
+    - Algebraic vs. Transcendental Elements over a Field
+    - Minimal Polynomial of an Algebraic Element
+    - Algebraic Extensions (Every element is algebraic)
+    - Finite Extensions (Finite degree) - Finite extensions are algebraic
+    - Simple Extensions F(α)
+  - Classical Straightedge and Compass Constructions
+    - Constructible Numbers
+    - Impossibility Proofs (Squaring the Circle, Doubling the Cube, Trisecting the Angle)
+  - Splitting Fields
+    - Definition (Smallest field where a polynomial factors completely)
+    - Existence and Uniqueness (up to isomorphism)
+  - Algebraic Closure
+    - Definition (Field where every non-constant polynomial has a root)
+    - Existence (Requires Zorn's Lemma - Optional)
+    - Algebraic Closure of F (denoted F̄)
+  - Finite Fields (Galois Fields GF(pⁿ))
+    - Existence and Uniqueness for each prime power pⁿ
+    - Structure (Cyclic multiplicative group)
+    - Subfields of Finite Fields
+  - Separable and Inseparable Extensions
+    - Formal Derivative of a Polynomial
+    - Separable Polynomials (Distinct roots in splitting field)
+    - Perfect Fields (Fields of char 0, Finite Fields)
+  - Galois Theory
+    - Automorphisms of Fields
+    - Galois Group Gal(K/F) (Group of F-automorphisms of K)
+    - Fixed Fields
+    - Normal Extensions (Splitting field of some set of polynomials)
+    - Fundamental Theorem of Galois Theory
+      - Correspondence between subgroups of Gal(K/F) and intermediate fields F ⊆ E ⊆ K
+      - Properties of the correspondence (Inclusion reversing, index=degree, normality)
+    - Calculating Galois Groups (Examples: Quadratics, Cubics, Cyclotomic Extensions)
+  - Applications of Galois Theory
+    - Solvability of Polynomials by Radicals
+      - Radical Extensions
+      - Solvable Groups
+      - Abel-Ruffini Theorem (General quintic is not solvable by radicals)
+    - Fundamental Theorem of Algebra (Proof using Galois Theory - Optional)
+    - Cyclotomic Polynomials and Extensions
+- Module Theory
+  - Definition of a Module over a Ring R (Generalization of Vector Space over Field)
+  - Examples (Vector spaces, Abelian groups as Z-modules, Ideals as R-modules)
+  - Submodules, Quotient Modules
+  - Module Homomorphisms (R-linear maps)
+  - Isomorphism Theorems for Modules
+  - Direct Sums and Direct Products of Modules
+  - Free Modules (Have a basis)
+  - Modules over a Principal Ideal Domain (PID)
+    - Structure Theorem for Finitely Generated Modules over a PID
+      - Invariant Factor Decomposition
+      - Elementary Divisor Decomposition
+    - Applications (Fundamental Theorem of Finitely Generated Abelian Groups, Jordan Canonical Form for matrices)
+  - Projective Modules (Advanced)
+  - Injective Modules (Advanced)
+  - Tensor Products of Modules (Advanced)
+- Commutative Algebra
+  - Rings and Ideals Revisited (Focus on Commutative Rings with Unity)
+  - Prime Ideals, Maximal Ideals (Properties, Spectrum of a Ring Spec(R))
+  - Radicals (Nilradical, Jacobson Radical)
+  - Operations on Ideals (Sum, Product, Intersection, Colon Ideal)
+  - Modules Revisited (Focus on Modules over Commutative Rings)
+  - Exact Sequences
+  - Noetherian Rings and Modules
+    - Hilbert's Basis Theorem Revisited
+  - Artinian Rings and Modules (Relationship to Noetherian)
+  - Localization (Constructing Rings of Fractions)
+  - Integral Extensions
+    - Integral Dependence, Integral Closure
+    - Going-Up Theorem, Going-Down Theorem (Optional)
+  - Valuation Rings (Optional)
+  - Dimension Theory (Krull Dimension)
+  - Completion (Optional)
+  - Regular Local Rings (Optional)
+- Homological Algebra (Advanced)
+  - Chain Complexes, Cochain Complexes
+  - Homology, Cohomology Groups
+  - Projective Resolutions, Injective Resolutions
+  - Derived Functors
+    - Tor Functors (Tensor Product related)
+    - Ext Functors (Hom related)
+  - Group Cohomology, Ring Cohomology (Optional)
+  - Spectral Sequences (Introduction - Optional)
+- Lie Groups and Lie Algebras (Advanced)
+  - Lie Groups (Manifolds with compatible group structure)
+  - Lie Algebras (Vector space with Lie bracket, related to tangent space at identity)
+  - Exponential Map
+  - Representations of Lie Groups and Lie Algebras
+- Category Theory (Abstract Framework)
+  - Categories (Objects, Morphisms, Composition, Identity)
+  - Examples (Set, Grp, Ring, Top, Vect)
+  - Functors (Covariant, Contravariant)
+  - Natural Transformations
+  - Adjoint Functors
+  - Limits and Colimits (Products, Coproducts, Pullbacks, Pushouts)
+  - Universal Properties
+  - Yoneda Lemma (Optional)
+  - Abelian Categories (Optional)
+
+Numerical Methods & Computational Mathematics
+- Numerical Analysis
+  - Fundamentals
+    - Sources of Error (Rounding, Truncation)
+    - Floating Point Arithmetic (IEEE 754 Standard)
+    - Absolute Error, Relative Error
+    - Stability, Conditioning, Convergence
+  - Solving Non-linear Equations (Root Finding)
+    - Bisection Method
+    - Fixed-Point Iteration
+    - Newton-Raphson Method
+    - Secant Method
+    - Convergence Analysis (Order of Convergence)
+    - Systems of Non-linear Equations (Newton's Method for Systems)
+  - Numerical Linear Algebra
+    - Direct Methods for Solving Linear Systems (Ax=b)
+      - Gaussian Elimination / LU Decomposition (Factorization)
+      - Pivoting Strategies (Partial, Complete)
+      - Cholesky Factorization (for Symmetric Positive Definite matrices)
+    - Iterative Methods for Solving Linear Systems
+      - Jacobi Method
+      - Gauss-Seidel Method
+      - Successive Over-Relaxation (SOR)
+      - Convergence Criteria
+    - Eigenvalue Problems (Approximating Eigenvalues/Eigenvectors)
+      - Power Method (Largest Eigenvalue)
+      - Inverse Power Method (Smallest Eigenvalue)
+      - QR Algorithm
+  - Interpolation and Approximation
+    - Polynomial Interpolation
+      - Lagrange Interpolating Polynomial
+      - Newton's Divided Differences
+      - Interpolation Error (Runge's Phenomenon)
+    - Piecewise Polynomial Interpolation (Splines)
+      - Linear Splines
+      - Cubic Splines (Natural, Clamped)
+    - Function Approximation
+      - Least Squares Approximation (Discrete, Continuous - requires Inner Product Spaces)
+      - Orthogonal Polynomials (Legendre, Chebyshev)
+    - Trigonometric Interpolation / Approximation
+      - Discrete Fourier Transform (DFT)
+      - Fast Fourier Transform (FFT) Algorithm
+  - Numerical Differentiation
+    - Finite Difference Formulas (Forward, Backward, Central)
+    - Error Analysis (Truncation Error)
+    - Richardson Extrapolation
+  - Numerical Integration (Quadrature)
+    - Newton-Cotes Formulas
+      - Trapezoidal Rule (Composite)
+      - Simpson's Rule (Composite)
+    - Error Analysis for Newton-Cotes
+    - Romberg Integration
+    - Gaussian Quadrature
+    - Adaptive Quadrature
+    - Multiple Integrals (Numerical Methods)
+  - Numerical Solution of Ordinary Differential Equations (ODEs) - IVPs
+    - Euler's Method (Forward)
+    - Modified Euler Method (Heun's Method)
+    - Runge-Kutta Methods (RK4 is common)
+    - Multi-step Methods (Adams-Bashforth, Adams-Moulton - Predictor-Corrector)
+    - Stability Analysis (Stiff Equations)
+    - Error Control, Adaptive Step Size
+    - Systems of ODEs
+  - Numerical Solution of Ordinary Differential Equations (ODEs) - BVPs
+    - Shooting Method
+    - Finite Difference Method
+    - Collocation Methods (Optional)
+  - Numerical Solution of Partial Differential Equations (PDEs)
+    - Finite Difference Methods (FDM)
+      - Discretization of Derivatives
+      - Explicit vs. Implicit Methods
+      - Stability Analysis (von Neumann Stability Analysis)
+      - Application to Heat, Wave, Laplace Equations
+    - Finite Element Methods (FEM)
+      - Variational Formulation (Weak Form)
+      - Discretization (Meshing)
+      - Basis Functions (Linear, Quadratic)
+      - Assembly of System Matrices
+      - Solving the Linear System
+    - Spectral Methods (Optional)
+- Optimization (Numerical Focus)
+  - Unconstrained Optimization
+    - Line Search Methods
+    - Gradient Descent
+    - Newton's Method for Optimization
+    - Quasi-Newton Methods (BFGS)
+    - Conjugate Gradient Method
+  - Constrained Optimization
+    - Lagrange Multipliers Revisited Numerically
+    - Linear Programming (LP)
+      - Simplex Method
+      - Interior Point Methods (Optional)
+    - Non-linear Programming (NLP)
+      - Penalty Methods
+      - Barrier Methods
+    - Convex Optimization
+      - Properties of Convex Functions/Sets
+      - Algorithms for Convex Problems
+- Scientific Computing Practices
+  - Choice of Programming Languages (Python/NumPy/SciPy, MATLAB, R, Julia, Fortran, C/C++)
+  - Use of Numerical Libraries (BLAS, LAPACK, NAG, IMSL, GSL)
+  - Data Visualization Tools
+  - Version Control (Git)
+  - High-Performance Computing (Parallelization Intro - MPI, OpenMP - Optional)
+  - Monte Carlo Methods
+    - Random Number Generation
+    - Monte Carlo Integration
+    - Applications (Simulation)
+
+Applied Mathematics & Interdisciplinary Areas
+- Mathematical Modeling
+  - Principles of Model Building
+    - Identify Problem, Make Assumptions, Formulate Model, Solve/Analyze, Validate/Refine
+  - Dimensional Analysis / Scaling
+  - Types of Models
+    - Deterministic Models
+    - Stochastic Models
+    - Discrete Models (Difference Equations)
+    - Continuous Models (Differential Equations)
+  - Model Fitting / Parameter Estimation
+- Operations Research (OR)
+  - Linear Programming (LP) - Modeling and Applications
+  - Integer Programming (IP) - Modeling
+  - Network Optimization
+    - Shortest Path Algorithms (Dijkstra, Bellman-Ford)
+    - Maximum Flow Problems (Ford-Fulkerson Algorithm)
+    - Minimum Cost Flow Problems
+  - Queueing Theory
+    - Kendall Notation (M/M/1, etc.)
+    - Little's Law
+    - Analysis of Basic Queueing Systems
+  - Decision Analysis
+    - Decision Trees
+    - Utility Theory
+  - Inventory Theory (Optional)
+  - Game Theory (Introduction - Zero-Sum Games, Nash Equilibrium)
+  - Simulation (Discrete Event Simulation)
+- Financial Mathematics / Quantitative Finance
+  - Basic Concepts (Interest Rates, Present Value, Annuities)
+  - Portfolio Theory (Markowitz Model)
+    - Risk and Return
+    - Diversification
+    - Efficient Frontier
+  - Capital Asset Pricing Model (CAPM)
+  - Option Pricing Theory
+    - Binomial Option Pricing Model
+    - Black-Scholes-Merton Equation (PDE)
+    - Black-Scholes Formula
+    - Greeks (Delta, Gamma, Vega, Theta, Rho)
+  - Risk Management
+    - Value at Risk (VaR)
+    - Credit Risk Modeling
+  - Stochastic Calculus Applications (Revisits SDEs)
+  - Interest Rate Models (Vasicek, Cox-Ingersoll-Ross - Optional)
+- Actuarial Science
+  - Theory of Interest
+  - Survival Models / Life Contingencies
+    - Life Tables
+    - Actuarial Notation
+    - Life Insurance Premiums/Reserves
+    - Annuities Certain / Life Annuities
+  - Loss Models / Risk Theory
+    - Severity Distributions
+    - Frequency Distributions
+    - Aggregate Loss Models
+    - Ruin Theory
+  - Credibility Theory (Optional)
+- Cryptography
+  - Classical Cryptography (Caesar Cipher, Vigenere Cipher)
+  - Shannon's Theory of Secrecy (Perfect Secrecy)
+  - Symmetric Key Cryptography
+    - Stream Ciphers
+    - Block Ciphers (DES, AES Standards)
+    - Modes of Operation
+  - Asymmetric (Public Key) Cryptography
+    - Key Exchange (Diffie-Hellman)
+    - Encryption / Digital Signatures (RSA Algorithm)
+    - ElGamal Cryptosystem
+    - Elliptic Curve Cryptography (ECC)
+  - Hash Functions (MD5, SHA)
+  - Cryptographic Protocols (SSL/TLS basics)
+  - Number Theory Foundations (Modular Arithmetic, Primes, Finite Fields)
+  - Algebraic Foundations (Groups, Rings, Fields)
+- Control Theory
+  - System Modeling
+    - State-Space Representation
+    - Transfer Functions (Laplace Transform based)
+  - System Properties
+    - Linearity, Time-Invariance
+    - Stability (BIBO Stability, Lyapunov Stability)
+      - Routh-Hurwitz Criterion
+      - Root Locus Analysis
+      - Nyquist Stability Criterion
+    - Controllability
+    - Observability
+  - Control Design
+    - PID Controllers
+    - Pole Placement (State Feedback)
+    - Observers (Luenberger Observer)
+  - Optimal Control
+    - Pontryagin's Maximum Principle (Optional)
+    - Linear Quadratic Regulator (LQR) (Optional)
+  - Robust Control (Optional)
+  - Adaptive Control (Optional)
+- Dynamical Systems & Chaos Theory
+  - Continuous Dynamical Systems (Flows from ODEs)
+  - Discrete Dynamical Systems (Maps - Difference Equations)
+  - Orbits, Fixed Points, Periodic Orbits
+  - Stability Analysis (Revisits ODE stability)
+  - Bifurcations (Revisits ODE bifurcations - Saddle-Node, Pitchfork, Hopf, Period-Doubling)
+  - Strange Attractors (Lorenz Attractor, Hénon Map)
+  - Chaos (Sensitive Dependence on Initial Conditions)
+  - Lyapunov Exponents
+  - Fractals
+    - Self-Similarity
+    - Fractal Dimension (Hausdorff Dimension)
+    - Examples (Cantor Set, Koch Snowflake, Mandelbrot Set, Julia Sets)
+- Mathematical Physics
+  - Classical Mechanics
+    - Newtonian Mechanics (Vectors, ODEs)
+    - Lagrangian Formulation (Calculus of Variations)
+    - Hamiltonian Formulation (Symplectic Geometry - Optional)
+  - Electromagnetism
+    - Maxwell's Equations (Vector Calculus, PDEs)
+    - Electromagnetic Waves
+  - Quantum Mechanics
+    - Hilbert Spaces, Linear Operators (Functional Analysis)
+    - Schrödinger Equation (PDE)
+    - Spectral Theory Application
+    - Probability Interpretation
+  - General Relativity
+    - Differential Geometry (Manifolds, Tensors, Curvature)
+    - Einstein Field Equations (Nonlinear PDEs)
+  - Statistical Mechanics
+    - Probability Theory, Large Deviations
+    - Connections to Thermodynamics
+    - Phase Transitions
+  - Quantum Field Theory (QFT - Advanced)
+  - String Theory (Advanced)
+- Mathematical Biology / Ecology
+  - Population Dynamics
+    - Single Species Models (Malthusian Growth, Logistic Growth)
+    - Predator-Prey Models (Lotka-Volterra Equations)
+    - Competition Models
+    - Age-Structured Models (Leslie Matrices)
+  - Epidemiology
+    - Compartmental Models (SIR, SEIR)
+    - Basic Reproduction Number (R₀)
+  - Genetics Modeling
+    - Hardy-Weinberg Equilibrium
+    - Population Genetics Models
+  - Biomechanics (Modeling tissues, fluid flow)
+  - Mathematical Neuroscience (Modeling neurons - Hodgkin-Huxley)
+  - Pattern Formation (Turing Patterns - Reaction-Diffusion Systems)
+- Machine Learning Theory / Statistical Learning Theory
+  - Supervised Learning Framework
+  - Probably Approximately Correct (PAC) Learning Model
+  - VC Dimension (Vapnik-Chervonenkis Dimension)
+  - Bias-Variance Tradeoff
+  - Regularization Techniques (Ridge, Lasso) - Optimization Connection
+  - Support Vector Machines (SVMs) - Optimization Connection
+  - Neural Network Foundations (Backpropagation as Chain Rule)
+  - Deep Learning Theory (Generalization, Optimization Challenges - Advanced)
+  - Reinforcement Learning Theory (Markov Decision Processes - Optional)
+- Computational Geometry
+  - Data Structures for Geometric Problems (KD-Trees, Quadtrees)
+  - Algorithms
+    - Convex Hulls (Graham Scan, Monotone Chain)
+    - Voronoi Diagrams
+    - Delaunay Triangulations
+    - Line Segment Intersection
+    - Point Location
+    - Range Searching
+- Coding Theory / Information Theory (Revisited/Expanded)
+  - Coding Theory
+    - Basic Concepts (Codes, Minimum Distance)
+    - Linear Codes (Generator Matrix, Parity Check Matrix)
+    - Hamming Codes
+    - Cyclic Codes (Optional)
+    - BCH Codes, Reed-Solomon Codes (Optional)
+  - Information Theory
+    - Entropy, Joint Entropy, Conditional Entropy, Mutual Information Review
+    - Kraft's Inequality
+    - Source Coding Theorem (Data Compression Limits)
+    - Huffman Coding
+    - Channel Models (Binary Symmetric Channel)
+    - Channel Capacity
+    - Noisy Channel Coding Theorem (Shannon's Second Theorem)
+
+Advanced / Specialized Topics (Examples - Can be nested under broader categories)
+- Algebraic Geometry
+  - Affine Varieties
+  - Projective Varieties
+  - Coordinate Rings, Function Fields
+  - Hilbert's Nullstellensatz
+  - Sheaf Theory
+  - Schemes (Grothendieck's approach)
+  - Cohomology of Sheaves
+  - Intersection Theory
+  - Moduli Spaces
+  - Toric Varieties (Optional)
+- Differential Geometry
+  - Riemannian Geometry
+    - Riemannian Metrics
+    - Connections (Levi-Civita Connection)
+    - Geodesics
+    - Curvature (Riemann Curvature Tensor, Ricci Curvature, Scalar Curvature)
+    - Jacobi Fields
+    - Completeness, Hopf-Rinow Theorem
+    - Comparison Theorems (Rauch, Toponogov)
+  - Symplectic Geometry
+    - Symplectic Manifolds, Symplectic Forms
+    - Hamiltonian Vector Fields
+    - Poisson Brackets
+    - Darboux's Theorem
+  - Geometric Analysis (PDEs on Manifolds - Yamabe Problem, Ricci Flow)
+- Geometric Group Theory (Study of groups using geometric methods)
+- K-Theory (Algebraic and Topological)
+- Non-commutative Geometry (Connes' approach)
+- Higher Category Theory (n-Categories)
+- Langlands Program (Connections between Number Theory, Representation Theory, Automorphic Forms)
+- Arithmetic Geometry (Intersection of Algebraic Geometry and Number Theory)
+- Random Matrix Theory
+- Topological Data Analysis (Persistent Homology)
+
+Meta-Skills
+- Problem Solving Approaches
+  - Polya's Method (Understand, Plan, Carry Out, Look Back)
+  - Specialization / Generalization
+  - Analogy
+  - Working Backwards
+  - Proof by Induction Strategies
+  - Counterexample Construction
+- Mathematical Proof Techniques
+  - Understanding Definitions and Axioms
+  - Reading Proofs Critically
+  - Structuring Proofs Logically
+  - Writing Proofs Clearly and Rigorously
+  - Identifying Common Proof Patterns
+- Mathematical Communication
+  - Using Precise Mathematical Language and Notation
+  - Explaining Complex Ideas Simply
+  - Presenting Mathematical Arguments (Oral/Written)
+  - Reading Mathematical Texts Effectively
+- Abstract Thinking
+  - Generalizing from Specific Examples
+  - Working with Axiomatic Systems
+  - Understanding Structure and Relationships
+- Rigor and Precision
+  - Attention to Detail
+  - Checking Assumptions and Conditions
+  - Avoiding Common Logical Fallacies
+- Mathematical Software Usage
+  - Typesetting Software
+    - LaTeX (Essential for academic math)
+  - Computer Algebra Systems (CAS)
+    - Mathematica
+    - Maple
+    - SageMath (Open Source)
+    - Maxima (Open Source)
+  - Numerical Computation Environments
+    - Python (with NumPy, SciPy, Matplotlib, Pandas)
+    - MATLAB
+    - R (Statistics focused)
+    - Julia
+  - Proof Assistants (Optional - Coq, Lean, Isabelle/HOL)
+- History of Mathematics
+  - Understanding Development of Key Concepts
+  - Major Figures and Their Contributions
+- Philosophy of Mathematics
+  - Different Views (Platonism, Formalism, Intuitionism, etc.)
+  - Nature of Mathematical Truth and Objects
+  - Foundations of Mathematics (Set Theory, Logic)
