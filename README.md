@@ -2,6 +2,8 @@
 
 A simple application that displays a hierarchical skill tree with the ability to mark skills as completed and expand/collapse subtrees. Built with Python's standard tkinter library.
 
+![Nested Skill Tree Screenshot](skill-tree.jpg)
+
 ## Features
 
 - Hierarchical display of skills
