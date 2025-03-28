@@ -68,7 +68,7 @@ class SkillTreeApp:
         self.tree.column("completed", width=0, stretch=False)  # Hide this column
         
         # Apply custom tag for alternating row colors
-        self.tree.tag_configure('completed', background='#c8f7c5', foreground='#006400', font=("TkDefaultFont", 9, "bold"))  # Light green bg, dark green bold text
+        self.tree.tag_configure('completed', background='#c8f7c5', foreground='#006400')  # Light green bg, dark green text
         self.tree.tag_configure('not_completed', background='#f7f7f7')  # Light gray
         
         self.tree.pack(fill=tk.BOTH, expand=tk.YES)
