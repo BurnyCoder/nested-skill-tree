@@ -265,19 +265,31 @@ class SkillTreeApp:
         self.update_children(item_id, new_status)
         
         # Check parent status
-        self.update_parent(self.tree.parent(item_id))
+        parent_id = self.tree.parent(item_id)
+        if parent_id:
+            self.update_parent(parent_id)
+            print(f"Updated parent: {self.tree.item(parent_id, 'text')}, all children completed: {self.tree.item(parent_id, 'values')[0]}")
     
     def update_children(self, parent_id, status):
         """Update all children to match parent's completion status."""
         status_str = str(status)
-        for child_id in self.tree.get_children(parent_id):
+        
+        # Get all children
+        children = self.tree.get_children(parent_id)
+        if not children:
+            return
+            
+        # Update each child
+        for child_id in children:
+            # Update child's status
             if status:
                 self.tree.item(child_id, tags=('completed',))
             else:
                 self.tree.item(child_id, tags=('not_completed',))
                 
             self.tree.item(child_id, values=(status_str,))
-            # Recursively update all descendants
+            
+            # Recursively update descendants
             self.update_children(child_id, status)
     
     def update_parent(self, parent_id):
@@ -292,7 +304,12 @@ class SkillTreeApp:
             
         all_completed = True
         for child_id in children:
-            child_status = str(self.tree.item(child_id, "values")[0])
+            child_values = self.tree.item(child_id, "values")
+            if len(child_values) < 1:
+                all_completed = False
+                break
+                
+            child_status = str(child_values[0])
             if child_status != "True":
                 all_completed = False
                 break
