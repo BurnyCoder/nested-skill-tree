@@ -15,7 +15,7 @@ class SkillTreeApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Nested Skill Tree")
-        self.root.geometry("800x600")
+        self.root.geometry("1000x800")
         
         # Create a title frame
         self.title_frame = ttk.Frame(self.root, padding=10)
@@ -40,7 +40,7 @@ class SkillTreeApp:
             self.title_frame,
             text=instructions,
             justify=tk.LEFT,
-            wraplength=780
+            wraplength=980
         )
         instructions_label.pack(pady=5)
         
@@ -64,7 +64,7 @@ class SkillTreeApp:
             columns=("completed",),  # Only keep one hidden column for tracking status
             show="tree"  # Only show the tree part, no headings
         )
-        self.tree.column("#0", width=750, stretch=True)  # Make skills column wider
+        self.tree.column("#0", width=950, stretch=True)  # Increased from 750 to 950
         self.tree.column("completed", width=0, stretch=False)  # Hide this column
         
         # Apply custom tag for alternating row colors
@@ -330,7 +330,7 @@ class SkillTreeApp:
         """Open a dialog to add a new skill."""
         dialog = tk.Toplevel(self.root)
         dialog.title("Add New Skill")
-        dialog.geometry("400x200")
+        dialog.geometry("500x250")  # Increased from 400x200
         dialog.resizable(False, False)
         
         # Center the dialog
@@ -537,9 +537,36 @@ class SkillTreeApp:
 
 def main():
     root = tk.Tk()
+    
+    # Set default font for the application
+    default_font = ("TkDefaultFont", 12)
+    title_font = ("TkDefaultFont", 20, "bold")
+    
+    # Configure default fonts for different elements
+    root.option_add("*Font", default_font)
+    root.option_add("*TButton*Font", default_font)
+    root.option_add("*TLabel*Font", default_font)
+    root.option_add("*TEntry*Font", default_font)
+    
+    # Create style
     style = ttk.Style()
     style.configure("Accent.TButton", background="#4caf50")
+    
+    # Increase size of buttons
+    style.configure("TButton", padding=(10, 5))
+    style.configure("Accent.TButton", padding=(10, 5))
+    
+    # Configure treeview with larger font
+    style.configure("Treeview", rowheight=25, font=default_font)
+    style.configure("Treeview.Heading", font=default_font)
+    
     app = SkillTreeApp(root)
+    
+    # Update title font after app creation
+    for widget in app.title_frame.winfo_children():
+        if isinstance(widget, ttk.Label) and widget.cget("text") == "Nested Skill Tree":
+            widget.configure(font=title_font)
+    
     root.mainloop()
 
 
