@@ -1,0 +1,206 @@
+{
+    "children": [
+        {
+            "text": "Mathematics",
+            "completed": false,
+            "open": true,
+            "children": [
+                {
+                    "text": "Arithmetic & Pre-Algebra",
+                    "completed": false,
+                    "open": true,
+                    "children": [
+                        {
+                            "text": "Basic Arithmetic",
+                            "completed": false,
+                            "open": true,
+                            "children": [
+                                {
+                                    "text": "Counting",
+                                    "completed": false,
+                                    "open": true,
+                                    "children": []
+                                },
+                                {
+                                    "text": "Addition",
+                                    "completed": false,
+                                    "open": true,
+                                    "children": []
+                                },
+                                {
+                                    "text": "Subtraction",
+                                    "completed": false,
+                                    "open": true,
+                                    "children": []
+                                },
+                                {
+                                    "text": "Multiplication",
+                                    "completed": false,
+                                    "open": true,
+                                    "children": []
+                                },
+                                {
+                                    "text": "Division",
+                                    "completed": false,
+                                    "open": true,
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Fractions",
+                            "completed": false,
+                            "open": true,
+                            "children": []
+                        },
+                        {
+                            "text": "Decimals",
+                            "completed": false,
+                            "open": true,
+                            "children": []
+                        },
+                        {
+                            "text": "Percentages",
+                            "completed": false,
+                            "open": true,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "text": "Algebra",
+                    "completed": false,
+                    "open": true,
+                    "children": [
+                        {
+                            "text": "Elementary Algebra",
+                            "completed": false,
+                            "open": true,
+                            "children": [
+                                {
+                                    "text": "Linear Equations",
+                                    "completed": false,
+                                    "open": true,
+                                    "children": []
+                                },
+                                {
+                                    "text": "Systems of Linear Equations",
+                                    "completed": false,
+                                    "open": true,
+                                    "children": []
+                                },
+                                {
+                                    "text": "Inequalities",
+                                    "completed": false,
+                                    "open": true,
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Intermediate Algebra",
+                            "completed": false,
+                            "open": true,
+                            "children": [
+                                {
+                                    "text": "Quadratic Equations",
+                                    "completed": false,
+                                    "open": true,
+                                    "children": []
+                                },
+                                {
+                                    "text": "Polynomials",
+                                    "completed": false,
+                                    "open": true,
+                                    "children": []
+                                },
+                                {
+                                    "text": "Rational Expressions",
+                                    "completed": false,
+                                    "open": true,
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Geometry",
+                    "completed": false,
+                    "open": true,
+                    "children": [
+                        {
+                            "text": "Basic Geometry",
+                            "completed": false,
+                            "open": true,
+                            "children": []
+                        },
+                        {
+                            "text": "Coordinate Geometry",
+                            "completed": false,
+                            "open": true,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Programming",
+            "completed": false,
+            "open": true,
+            "children": [
+                {
+                    "text": "Web Development",
+                    "completed": false,
+                    "open": true,
+                    "children": [
+                        {
+                            "text": "HTML",
+                            "completed": false,
+                            "open": true,
+                            "children": []
+                        },
+                        {
+                            "text": "CSS",
+                            "completed": false,
+                            "open": true,
+                            "children": []
+                        },
+                        {
+                            "text": "JavaScript",
+                            "completed": false,
+                            "open": true,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "text": "Python",
+                    "completed": false,
+                    "open": true,
+                    "children": [
+                        {
+                            "text": "Basic Syntax",
+                            "completed": false,
+                            "open": true,
+                            "children": []
+                        },
+                        {
+                            "text": "Data Structures",
+                            "completed": false,
+                            "open": true,
+                            "children": []
+                        },
+                        {
+                            "text": "Object-Oriented Programming",
+                            "completed": false,
+                            "open": true,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+} 
