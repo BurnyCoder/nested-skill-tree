@@ -31,9 +31,9 @@ class SkillTreeApp:
         
         # Add instructions
         instructions = (
-            "Double-click on a skill to mark it as completed/incomplete\n"
+            "Double-click on a bottom-level skill to mark it as completed/incomplete\n"
             "Click on the arrows to expand/collapse subtrees\n"
-            "Completing a parent skill completes all child skills\n"
+            "Only skills without children can be directly marked as completed\n"
             "A parent is automatically completed when all children are completed"
         )
         instructions_label = ttk.Label(
@@ -240,6 +240,13 @@ class SkillTreeApp:
         if not item_id:
             return
             
+        # Check if this item has children
+        children = self.tree.get_children(item_id)
+        if children:
+            # This is not a leaf node, show a message and return
+            print(f"Cannot directly mark '{self.tree.item(item_id, 'text')}' as completed - only bottom-level skills can be marked")
+            return
+            
         # Get the current completion status
         current_values = self.tree.item(item_id, "values")
         if len(current_values) < 1:
@@ -260,9 +267,6 @@ class SkillTreeApp:
         
         # Add debugging message
         print(f"Toggled item: {self.tree.item(item_id, 'text')}, new status: {new_status}")
-        
-        # Update all children if this is a parent node
-        self.update_children(item_id, new_status)
         
         # Check parent status
         parent_id = self.tree.parent(item_id)
