@@ -68,7 +68,12 @@ class SkillTreeApp:
         self.tree.heading("display", text="")
         self.tree.column("#0", width=400)
         self.tree.column("completed", width=0, stretch=False)  # Hide this column
-        self.tree.column("display", width=50, anchor=tk.CENTER)
+        self.tree.column("display", width=80, anchor=tk.CENTER)
+        
+        # Apply custom tag for alternating row colors
+        self.tree.tag_configure('completed', background='#c8f7c5', foreground='#006400')  # Light green with dark green text
+        self.tree.tag_configure('not_completed', background='#f7f7f7')  # Light gray
+        
         self.tree.pack(fill=tk.BOTH, expand=tk.YES)
         
         # Configure the scrollbar
@@ -129,16 +134,16 @@ class SkillTreeApp:
     def populate_tree(self):
         """Populate the tree with the initial skill tree structure."""
         # Add main categories
-        math = self.tree.insert("", "end", text="Arithmetic & Pre-Algebra", values=("False", "❌"))
-        algebra = self.tree.insert("", "end", text="Algebra", values=("False", "❌"))
+        math = self.tree.insert("", "end", text="Arithmetic & Pre-Algebra", values=("False", "❌"), tags=('not_completed',))
+        algebra = self.tree.insert("", "end", text="Algebra", values=("False", "❌"), tags=('not_completed',))
         
         # Add subcategories
-        basic_arithmetic = self.tree.insert(math, "end", text="Basic Arithmetic", values=("False", "❌"))
-        elem_algebra = self.tree.insert(algebra, "end", text="Elementary Algebra", values=("False", "❌"))
+        basic_arithmetic = self.tree.insert(math, "end", text="Basic Arithmetic", values=("False", "❌"), tags=('not_completed',))
+        elem_algebra = self.tree.insert(algebra, "end", text="Elementary Algebra", values=("False", "❌"), tags=('not_completed',))
         
         # Add sub-subcategories
-        self.tree.insert(basic_arithmetic, "end", text="Counting", values=("False", "❌"))
-        self.tree.insert(elem_algebra, "end", text="Linear Equations", values=("False", "❌"))
+        self.tree.insert(basic_arithmetic, "end", text="Counting", values=("False", "❌"), tags=('not_completed',))
+        self.tree.insert(elem_algebra, "end", text="Linear Equations", values=("False", "❌"), tags=('not_completed',))
         
         # Expand all initially
         for item in [math, algebra, basic_arithmetic, elem_algebra]:
@@ -162,12 +167,14 @@ class SkillTreeApp:
         if current_status == "True":
             new_status = False
             display_value = "❌"
+            self.tree.item(item_id, tags=('not_completed',))
         else:
             new_status = True
             display_value = "✅"
+            self.tree.item(item_id, tags=('completed',))
             
         # Update the item
-        self.tree.item(item_id, values=(new_status, display_value))
+        self.tree.item(item_id, values=(str(new_status), display_value))
         
         # Add debugging message
         print(f"Toggled item: {self.tree.item(item_id, 'text')}, new status: {new_status}")
@@ -183,6 +190,11 @@ class SkillTreeApp:
         display_value = "✅" if status else "❌"
         status_str = str(status)
         for child_id in self.tree.get_children(parent_id):
+            if status:
+                self.tree.item(child_id, tags=('completed',))
+            else:
+                self.tree.item(child_id, tags=('not_completed',))
+                
             self.tree.item(child_id, values=(status_str, display_value))
             # Recursively update all descendants
             self.update_children(child_id, status)
@@ -208,6 +220,12 @@ class SkillTreeApp:
         display_value = "✅" if all_completed else "❌"
         self.tree.item(parent_id, values=(str(all_completed), display_value))
         
+        # Update the tag
+        if all_completed:
+            self.tree.item(parent_id, tags=('completed',))
+        else:
+            self.tree.item(parent_id, tags=('not_completed',))
+            
         # Recursively update ancestors
         self.update_parent(self.tree.parent(parent_id))
     
@@ -274,7 +292,7 @@ class SkillTreeApp:
         parent_id = self.item_dict.get(parent_name, "")
         
         # Insert the new skill
-        new_item = self.tree.insert(parent_id, "end", text=skill_name, values=("False", "❌"))
+        new_item = self.tree.insert(parent_id, "end", text=skill_name, values=("False", "❌"), tags=('not_completed',))
         
         # If it's a child, make sure the parent is expanded
         if parent_id:
@@ -401,13 +419,15 @@ class SkillTreeApp:
         # Regular node case
         completed = node_data.get("completed", False)
         display_value = "✅" if completed else "❌"
+        tag = 'completed' if completed else 'not_completed'
         
         # Insert this node
         new_id = self.tree.insert(
             parent_id, 
             "end", 
             text=node_data["text"], 
-            values=(str(completed), display_value)
+            values=(str(completed), display_value),
+            tags=(tag,)
         )
         
         # Set open state
