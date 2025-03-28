@@ -201,20 +201,27 @@ class SkillTreeApp:
                 else:
                     break
             
-            # Normalize indentation to levels (0, 2, 4, etc.)
-            level = indent // 2
-            
-            # Clean up the text (remove leading dash if present)
+            # Normalize indentation to levels
+            # If line starts with a dash (after spaces), it's a child of the previous level
             text = line.strip()
-            if text.startswith('- '):
+            has_dash = text.startswith('- ')
+            
+            # The text content (remove leading dash if present)
+            if has_dash:
                 text = text[2:]
             
-            # Determine parent node
-            if level == 0:
-                # Top level item
+            # Calculate the actual level based on indentation and dash presence
+            if indent == 0 and not has_dash:
+                # Main category (like "Arithmetic & Pre-Algebra")
+                level = 0
                 parent_id = ""
+            elif has_dash:
+                # Line with a dash is a child of its indentation level
+                level = (indent // 2) + 1
+                parent_id = parent_map.get(level - 1, "")
             else:
-                # Get parent from the level above
+                # Other indented lines without dash
+                level = indent // 2
                 parent_id = parent_map.get(level - 1, "")
             
             # Insert the node
