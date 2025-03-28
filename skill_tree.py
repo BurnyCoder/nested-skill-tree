@@ -18,14 +18,15 @@ class SkillTreeApp:
         self.root.geometry("1000x800")
         
         # Create a title frame
-        self.title_frame = ttk.Frame(self.root, padding=10)
+        self.title_frame = ttk.Frame(self.root, padding=15)
         self.title_frame.pack(fill=tk.X)
         
         # Add a title
         title_label = ttk.Label(
             self.title_frame, 
             text="Nested Skill Tree", 
-            font=("TkDefaultFont", 16, "bold")
+            font=("Georgia", 22, "bold"),
+            foreground="#2e7d32"
         )
         title_label.pack(pady=5)
         
@@ -40,9 +41,11 @@ class SkillTreeApp:
             self.title_frame,
             text=instructions,
             justify=tk.LEFT,
+            font=("Georgia", 11),
+            foreground="#555555",
             wraplength=980
         )
-        instructions_label.pack(pady=5)
+        instructions_label.pack(pady=8)
         
         # Add a separator
         separator = ttk.Separator(self.root, orient="horizontal")
@@ -68,7 +71,7 @@ class SkillTreeApp:
         self.tree.column("completed", width=0, stretch=False)  # Hide this column
         
         # Apply custom tag for alternating row colors
-        self.tree.tag_configure('completed', background='#c8f7c5', foreground='#006400')  # Light green bg, dark green text
+        self.tree.tag_configure('completed', background='#c8f7c5', foreground='#006400')  # Lighter green bg, darker green text
         self.tree.tag_configure('not_completed', background='#f7f7f7')  # Light gray
         
         self.tree.pack(fill=tk.BOTH, expand=tk.YES)
@@ -334,21 +337,37 @@ class SkillTreeApp:
         """Open a dialog to add a new skill."""
         dialog = tk.Toplevel(self.root)
         dialog.title("Add New Skill")
-        dialog.geometry("500x250")  # Increased from 400x200
+        dialog.geometry("550x300")  # Make dialog larger for better spacing
         dialog.resizable(False, False)
         
         # Center the dialog
         dialog.transient(self.root)
         dialog.grab_set()
         
+        # Set dialog background
+        dialog.configure(background="#f8f8f8")
+        
+        # Create a frame for content with padding
+        content_frame = ttk.Frame(dialog, padding=20)
+        content_frame.pack(fill=tk.BOTH, expand=True)
+        
+        # Add heading
+        heading = ttk.Label(
+            content_frame, 
+            text="Add a New Skill",
+            font=("Georgia", 14, "bold"),
+            foreground="#2e7d32"
+        )
+        heading.grid(row=0, column=0, columnspan=2, pady=(0, 20), sticky=tk.W)
+        
         # Add form elements
-        ttk.Label(dialog, text="Skill Name:").grid(row=0, column=0, padx=10, pady=10, sticky=tk.W)
-        skill_name = ttk.Entry(dialog, width=30)
-        skill_name.grid(row=0, column=1, padx=10, pady=10)
+        ttk.Label(content_frame, text="Skill Name:").grid(row=1, column=0, padx=10, pady=10, sticky=tk.W)
+        skill_name = ttk.Entry(content_frame, width=30)
+        skill_name.grid(row=1, column=1, padx=10, pady=10, sticky=tk.W+tk.E)
         skill_name.focus_set()
         
         # Parent selection
-        ttk.Label(dialog, text="Parent Skill:").grid(row=1, column=0, padx=10, pady=10, sticky=tk.W)
+        ttk.Label(content_frame, text="Parent Skill:").grid(row=2, column=0, padx=10, pady=10, sticky=tk.W)
         
         # Get all current items
         all_items = []
@@ -363,20 +382,21 @@ class SkillTreeApp:
         self.item_dict["[Root Level]"] = ""
         
         # Create the combobox with all item names
-        parent_combo = ttk.Combobox(dialog, values=list(self.item_dict.keys()), state="readonly")
+        parent_combo = ttk.Combobox(content_frame, values=list(self.item_dict.keys()), state="readonly")
         parent_combo.current(0)  # Select the first item
-        parent_combo.grid(row=1, column=1, padx=10, pady=10)
+        parent_combo.grid(row=2, column=1, padx=10, pady=10, sticky=tk.W+tk.E)
         
         # Buttons
-        button_frame = ttk.Frame(dialog)
-        button_frame.grid(row=2, column=0, columnspan=2, pady=20)
+        button_frame = ttk.Frame(content_frame)
+        button_frame.grid(row=3, column=0, columnspan=2, pady=30)
         
-        ttk.Button(
+        add_button = ttk.Button(
             button_frame,
-            text="Add",
+            text="Add Skill",
             style="Accent.TButton",
             command=lambda: self._add_skill(skill_name.get(), parent_combo.get(), dialog)
-        ).pack(side=tk.LEFT, padx=10)
+        )
+        add_button.pack(side=tk.LEFT, padx=10)
         
         ttk.Button(
             button_frame,
@@ -542,9 +562,10 @@ class SkillTreeApp:
 def main():
     root = tk.Tk()
     
-    # Set default font for the application
-    default_font = ("TkDefaultFont", 12)
-    title_font = ("TkDefaultFont", 20, "bold")
+    # Set default font for the application - using more beautiful fonts
+    default_font = ("Georgia", 12)
+    title_font = ("Georgia", 20, "bold")
+    heading_font = ("Georgia", 14, "bold")
     
     # Configure default fonts for different elements
     root.option_add("*Font", default_font)
@@ -554,15 +575,15 @@ def main():
     
     # Create style
     style = ttk.Style()
-    style.configure("Accent.TButton", background="#4caf50")
     
-    # Increase size of buttons
-    style.configure("TButton", padding=(10, 5))
-    style.configure("Accent.TButton", padding=(10, 5))
+    # Configure styles with better fonts
+    style.configure("Accent.TButton", background="#4caf50", font=default_font)
+    style.configure("TButton", padding=(10, 5), font=default_font)
+    style.configure("Accent.TButton", padding=(10, 5), font=default_font)
     
-    # Configure treeview with larger font
-    style.configure("Treeview", rowheight=25, font=default_font)
-    style.configure("Treeview.Heading", font=default_font)
+    # Configure treeview with better font
+    style.configure("Treeview", rowheight=28, font=default_font)
+    style.configure("Treeview.Heading", font=heading_font)
     
     app = SkillTreeApp(root)
     
